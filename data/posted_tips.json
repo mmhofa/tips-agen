@@ -46,5 +46,17 @@
     "body_fa": "به گفته یک معمار ارشد نرم‌افزار، موفقیت در هوش مصنوعی مولد بیش از آنکه به پرامپت‌های زیرکانه وابسته باشد، به استحکام معماری سیستم بستگی دارد. پیش از وسواس روی جمله‌بندی پرامپت، روی طراحی اطراف آن سرمایه‌گذاری کنید: جریان داده، حصارهای محافظ و نحوه اتصال به سرویس‌های دیگر.",
     "difficulty": "advanced",
     "source_url": "https://tech.yahoo.com/ai/meta-ai/articles/why-architecture-matters-more-prompts-011954558.html"
+  },
+  {
+    "id": "7da66ce2-fe44-487a-a558-1aa61cf08735",
+    "date": "2026-10-12",
+    "posted_at": "2026-10-12T10:37:19.497750+00:00",
+    "telegram_message_id": 29,
+    "title_en": "Plan observability for agents before they go live",
+    "body_en": "Agents create a monitoring problem of their own: their multi-step, autonomous behavior is hard to trace with tooling built for ordinary applications. Decide up front what you will log and how you will detect a runaway or misbehaving agent, rather than bolting on visibility after the first incident.",
+    "title_fa": "پیش از راه‌اندازی ایجنت‌ها، برای رصدپذیری آن‌ها نقشه داشته باشید",
+    "body_fa": "ایجنت‌ها مسئله‌ی پایش تازه‌ای می‌سازند: رفتار چندمرحله‌ای و خودمختار آن‌ها را با ابزارهایی که برای نرم‌افزارهای معمولی ساخته شده‌اند به‌سختی می‌توان ردیابی کرد. از همان ابتدا مشخص کنید چه چیزهایی را لاگ می‌کنید و چگونه متوجه می‌شوید ایجنتی از کنترل خارج شده یا بدرفتاری می‌کند؛ نگذارید این کار به بعد از اولین حادثه بیفتد.",
+    "difficulty": "intermediate",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html"
   }
 ]
