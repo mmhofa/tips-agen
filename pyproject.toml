@@ -1,0 +1,13 @@
+[project]
+name = "tips-agent"
+version = "0.1.0"
+description = "Generate, de-duplicate, and post bilingual agentic AI tips"
+requires-python = ">=3.10"
+dependencies = [
+    "truststore>=0.10",
+    "langchain-openai>=0.3.21",
+    "pydantic>=2.7",
+    "langchain-community>=0.4.2",
+    "ddgs>=9.0",
+    "chromadb>=1.0.0",
+]

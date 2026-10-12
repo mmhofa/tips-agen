@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+.uv-cache/
+.uv-python/
+data/chroma_db/

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "55bf91da-a2dc-41db-bf45-e228d0ec271a",
+    "date": "2026-10-07",
+    "posted_at": "2026-10-07T07:18:02.126384+00:00",
+    "telegram_message_id": 25,
+    "title_en": "Know where agents stop helping in incident response",
+    "body_en": "In service reliability, agents have sharply compressed time-to-detect and time-to-diagnose, but time-to-mitigate has not improved the same way. Plan your on-call process around that boundary: let agents surface and explain incidents, and keep humans accountable for the actual fix.",
+    "title_fa": "بدانید ایجنت‌ها در پاسخ به رخداد تا کجا کمک می‌کنند",
+    "body_fa": "در حوزه پایداری سرویس، ایجنت‌ها زمان تشخیص و زمان عیب‌یابی را به‌شدت کوتاه کرده‌اند، اما زمان رفع مشکل به همان اندازه بهبود نیافته است. فرایند کشیک خود را با توجه به همین مرز بچینید: بگذارید ایجنت رخداد را پیدا و توضیح دهد، ولی مسئولیت رفع نهایی همچنان بر عهده انسان باشد.",
+    "difficulty": "intermediate",
+    "source_url": "https://cacm.acm.org/blogcacm/were-just-scratching-the-surface-of-what-ai-agents-can-do-for-service-reliability/"
+  },
+  {
+    "id": "c208e6bd-a103-488d-9606-1dee682951e4",
+    "date": "2026-10-07",
+    "posted_at": "2026-10-07T07:22:51.445288+00:00",
+    "telegram_message_id": 26,
+    "title_en": "Build the Four Skills Agentic AI Demands",
+    "body_en": "Andrew Ng and other experts point to a set of core development skills that generative and agentic AI have made newly important. Rather than chasing every new tool, invest in the fundamentals of building, evaluating, and integrating AI systems — those skills transfer across whatever framework is popular next quarter.",
+    "title_fa": "چهار مهارتی که عصر ایجنت‌ها می‌طلبد",
+    "body_fa": "اندرو ان‌جی و دیگر متخصصان به مجموعه‌ای از مهارت‌های پایهٔ توسعه اشاره می‌کنند که با آمدن هوش مصنوعی مولد و ایجنت‌محور اهمیت تازه‌ای پیدا کرده‌اند. به‌جای دویدن دنبال هر ابزار تازه، روی اصول ساخت، ارزیابی و یکپارچه‌سازی سیستم‌های هوش مصنوعی سرمایه‌گذاری کنید؛ این مهارت‌ها با هر چارچوبی که فصل بعد مد شود، همچنان به کارتان می‌آیند.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/4-ai-development-skills-according-191050882.html"
+  },
+  {
+    "id": "52d29e85-75a3-4053-9c62-6c0cf72c0ce4",
+    "date": "2026-10-12",
+    "posted_at": "2026-10-12T09:43:09.777544+00:00",
+    "telegram_message_id": 27,
+    "title_en": "Give every agent a human owner",
+    "body_en": "An AI agent can work as a teammate, but it still needs a boss. Companies train people to get more out of AI, yet rarely teach them how to supervise it — assign clear human ownership and review points for every agent you deploy.",
+    "title_fa": "برای هر ایجنت یک سرپرست انسانی تعیین کنید",
+    "body_fa": "ایجنت هوش مصنوعی می‌تواند هم‌تیمی خوبی باشد، اما باز هم به یک مدیر نیاز دارد. بیشتر شرکت‌ها به کارکنان یاد می‌دهند چطور بیشترین بهره را از هوش مصنوعی ببرند، ولی کمتر کسی نظارت بر آن را آموزش می‌دهد؛ برای هر ایجنتی که به کار می‌گیرید، مالک انسانی و نقاط بازبینی مشخص تعیین کنید.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/ai-agent-teammate-still-needs-133611771.html"
+  }
+]
