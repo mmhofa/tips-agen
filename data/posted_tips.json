@@ -58,5 +58,17 @@
     "body_fa": "ایجنت‌ها مسئله‌ی پایش تازه‌ای می‌سازند: رفتار چندمرحله‌ای و خودمختار آن‌ها را با ابزارهایی که برای نرم‌افزارهای معمولی ساخته شده‌اند به‌سختی می‌توان ردیابی کرد. از همان ابتدا مشخص کنید چه چیزهایی را لاگ می‌کنید و چگونه متوجه می‌شوید ایجنتی از کنترل خارج شده یا بدرفتاری می‌کند؛ نگذارید این کار به بعد از اولین حادثه بیفتد.",
     "difficulty": "intermediate",
     "source_url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html"
+  },
+  {
+    "id": "9b9ef1ab-7839-4799-8c30-3b872ee1ccf0",
+    "date": "2026-10-12",
+    "posted_at": "2026-10-12T22:58:41.512627+00:00",
+    "telegram_message_id": 30,
+    "title_en": "Put Hard Budget Caps on Autonomous Agents",
+    "body_en": "A single runaway AI agent racked up a $50,000 cloud bill. If your agents can call APIs and touch production, set hard spending limits and real-time alerts before you scale them.",
+    "title_fa": "برای عامل‌های خودمختار سقف هزینه بگذارید",
+    "body_fa": "یک عامل هوش مصنوعی که از کنترل خارج شد، تنها به تنهایی ۵۰ هزار دلار هزینه ابری روی دست سازمان گذاشت. اگر عامل‌های شما اجازه فراخوانی API و دست‌زدن به محیط عملیاتی را دارند، پیش از گسترش مقیاس، سقف سخت هزینه و هشدار لحظه‌ای تعیین کنید.",
+    "difficulty": "beginner",
+    "source_url": "https://www.helpnetsecurity.com/2026/09/16/google-mandiant-enterprise-ai-security-risks-report/"
   }
 ]
