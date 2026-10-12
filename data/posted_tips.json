@@ -34,5 +34,17 @@
     "body_fa": "ایجنت هوش مصنوعی می‌تواند هم‌تیمی خوبی باشد، اما باز هم به یک مدیر نیاز دارد. بیشتر شرکت‌ها به کارکنان یاد می‌دهند چطور بیشترین بهره را از هوش مصنوعی ببرند، ولی کمتر کسی نظارت بر آن را آموزش می‌دهد؛ برای هر ایجنتی که به کار می‌گیرید، مالک انسانی و نقاط بازبینی مشخص تعیین کنید.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/ai-agent-teammate-still-needs-133611771.html"
+  },
+  {
+    "id": "47577009-387a-4e33-b782-781added8d4f",
+    "date": "2026-10-12",
+    "posted_at": "2026-10-12T10:32:39.478840+00:00",
+    "telegram_message_id": 28,
+    "title_en": "Architecture Beats Prompting",
+    "body_en": "A senior software architect argues that successful generative AI depends on robust system architecture rather than clever prompts. Invest in the surrounding design — data flow, guardrails, and integration — before you spend time tuning prompt wording.",
+    "title_fa": "معماری مهم‌تر از پرامپت است",
+    "body_fa": "به گفته یک معمار ارشد نرم‌افزار، موفقیت در هوش مصنوعی مولد بیش از آنکه به پرامپت‌های زیرکانه وابسته باشد، به استحکام معماری سیستم بستگی دارد. پیش از وسواس روی جمله‌بندی پرامپت، روی طراحی اطراف آن سرمایه‌گذاری کنید: جریان داده، حصارهای محافظ و نحوه اتصال به سرویس‌های دیگر.",
+    "difficulty": "advanced",
+    "source_url": "https://tech.yahoo.com/ai/meta-ai/articles/why-architecture-matters-more-prompts-011954558.html"
   }
 ]
