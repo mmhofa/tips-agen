@@ -70,5 +70,17 @@
     "body_fa": "یک عامل هوش مصنوعی که از کنترل خارج شد، تنها به تنهایی ۵۰ هزار دلار هزینه ابری روی دست سازمان گذاشت. اگر عامل‌های شما اجازه فراخوانی API و دست‌زدن به محیط عملیاتی را دارند، پیش از گسترش مقیاس، سقف سخت هزینه و هشدار لحظه‌ای تعیین کنید.",
     "difficulty": "beginner",
     "source_url": "https://www.helpnetsecurity.com/2026/09/16/google-mandiant-enterprise-ai-security-risks-report/"
+  },
+  {
+    "id": "b7c78b47-62de-4578-9151-315af49273b7",
+    "date": "2026-10-13",
+    "posted_at": "2026-10-13T11:46:58.197034+00:00",
+    "telegram_message_id": 31,
+    "title_en": "Share Infrastructure to Avoid AI Sprawl",
+    "body_en": "As agents get more autonomous, don't let each team build its own stack. Provide shared infrastructure for context, model, and tool access so agentic applications can scale without fragmenting into unmanageable sprawl.",
+    "title_fa": "زیرساخت مشترک، جلوی پراکندگی ایجنت‌ها را می‌گیرد",
+    "body_fa": "هرچه ایجنت‌ها خودمختارتر می‌شوند، نگذارید هر تیم زیرساخت اختصاصی خودش را بسازد. دسترسی مشترک به کانتکست، مدل و ابزارها را فراهم کنید تا اپلیکیشن‌های ایجنت‌محور بدون تبدیل‌شدن به مجموعه‌ای پراکنده و غیرقابل‌مدیریت، مقیاس بگیرند.",
+    "difficulty": "advanced",
+    "source_url": "https://www.databricks.com/blog/how-scale-agentic-applications-without-creating-ai-sprawl"
   }
 ]
