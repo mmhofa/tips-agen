@@ -106,5 +106,17 @@
     "body_fa": "با بزرگ‌تر شدن پروژه‌های هوش مصنوعی مولد و ایجنتی، هزینه‌ها سریع بالا می‌رود؛ و اگر معماری ضعیف باشد و بهره‌برداری محدود بماند، مهاجرت به ایجنت‌ها این هزینه را باز هم بیشتر می‌کند. پیش از سرزنش کردن صورت‌حساب مدل، اول ساختار و طراحی سیستم را درست کنید.",
     "difficulty": "advanced",
     "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
+  },
+  {
+    "id": "3b93d200-d431-4133-98c1-ba1177152f35",
+    "date": "2026-10-14",
+    "posted_at": "2026-10-14T09:30:55.528464+00:00",
+    "telegram_message_id": 34,
+    "title_en": "Treat Evaluation as Part of Agent Governance",
+    "body_en": "Governance tooling alone struggles to stop agents from going off the rails. Build evaluation engineering into your agent lifecycle so behaviour is measured and checked continuously, not just at launch.",
+    "title_fa": "ارزیابی را بخشی از حاکمیت ایجنت‌ها بدانید",
+    "body_fa": "ابزارهای حاکمیتی به‌تنهایی نمی‌توانند جلوی خارج شدن ایجنت‌ها از مسیر درست را بگیرند. مهندسی ارزیابی را در کل چرخه عمر ایجنت بگنجانید تا رفتار آن به‌طور مستمر سنجیده و بررسی شود، نه فقط در روز راه‌اندازی.",
+    "difficulty": "advanced",
+    "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
   }
 ]
