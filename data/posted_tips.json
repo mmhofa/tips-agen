@@ -94,5 +94,17 @@
     "body_fa": "پژوهش Pax8 نشان می‌دهد دو سوم کسب‌وکارهای کوچکی که با هوش مصنوعی کار می‌کنند، راهکارهایی ساخته‌اند که همین حالا در حال استفاده است و ۳۵ درصدشان ابزارها، گردش‌کارها یا عامل‌های تأییدنشده کشف کرده‌اند. یک فهرست‌برداری سریع انجام دهید: از هر تیم بپرسید واقعاً از چه عامل‌ها و ابزارهای هوش مصنوعی استفاده می‌کند، بعد تصمیم بگیرید کدام را رسمی کنید و کدام را متوقف.",
     "difficulty": "beginner",
     "source_url": "https://finance.yahoo.com/small-business/articles/pax8-research-finds-small-businesses-130000024.html"
+  },
+  {
+    "id": "3f2b3e84-0e92-4c2e-b7ec-0822e911a836",
+    "date": "2026-10-14",
+    "posted_at": "2026-10-14T01:13:50.937095+00:00",
+    "telegram_message_id": 33,
+    "title_en": "Agent costs are usually an architecture problem",
+    "body_en": "As generative and agentic AI scales, spending climbs fast — and moving to agents can push it higher still when the architecture is poor and operations are limited. Fix the design before you blame the model bill.",
+    "title_fa": "هزینه‌ی ایجنت‌ها بیشتر مسئله‌ی معماری است تا مدل",
+    "body_fa": "با بزرگ‌تر شدن پروژه‌های هوش مصنوعی مولد و ایجنتی، هزینه‌ها سریع بالا می‌رود؛ و اگر معماری ضعیف باشد و بهره‌برداری محدود بماند، مهاجرت به ایجنت‌ها این هزینه را باز هم بیشتر می‌کند. پیش از سرزنش کردن صورت‌حساب مدل، اول ساختار و طراحی سیستم را درست کنید.",
+    "difficulty": "advanced",
+    "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
   }
 ]
