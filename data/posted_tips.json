@@ -118,5 +118,17 @@
     "body_fa": "ابزارهای حاکمیتی به‌تنهایی نمی‌توانند جلوی خارج شدن ایجنت‌ها از مسیر درست را بگیرند. مهندسی ارزیابی را در کل چرخه عمر ایجنت بگنجانید تا رفتار آن به‌طور مستمر سنجیده و بررسی شود، نه فقط در روز راه‌اندازی.",
     "difficulty": "advanced",
     "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
+  },
+  {
+    "id": "1559542e-5064-4750-ba58-2cd6e0a67789",
+    "date": "2026-10-14",
+    "posted_at": "2026-10-14T20:12:18.886845+00:00",
+    "telegram_message_id": 35,
+    "title_en": "Don't make everything agentic",
+    "body_en": "Not every workflow needs an autonomous agent. Before adding one, ask whether a simpler AI system would solve the same problem with less complexity and risk.",
+    "title_fa": "هر چیزی را ایجنتی نکنید",
+    "body_fa": "لازم نیست هر فرایندی به یک ایجنت خودمختار سپرده شود. پیش از افزودن ایجنت، از خودتان بپرسید آیا یک سیستم ساده‌تر هم همان مسئله را با پیچیدگی و ریسک کمتر حل می‌کند یا نه.",
+    "difficulty": "beginner",
+    "source_url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/09/15/stop-making-everything-agentic-a-simpler-way-to-build-ai-systems/"
   }
 ]
