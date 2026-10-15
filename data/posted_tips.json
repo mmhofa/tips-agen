@@ -142,5 +142,17 @@
     "body_fa": "هرچه طرح‌های هوش مصنوعی مولد و ایجنتی بزرگ‌تر می‌شوند، هزینه توسعه، استقرار و بهره‌برداری از مدل‌ها به‌شدت بالا می‌رود؛ معماری ضعیف و بی‌نظمی در عملیات هم این هزینه را برای ایجنت‌ها بیشتر می‌کند. معماری و عملیات را بخشی از کنترل هزینه بدانید، نه موضوعی حاشیه‌ای.",
     "difficulty": "advanced",
     "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
+  },
+  {
+    "id": "0ab0f51d-c790-4be3-a27a-6e58ec559281",
+    "date": "2026-10-15",
+    "posted_at": "2026-10-15T09:09:07.627767+00:00",
+    "telegram_message_id": 37,
+    "title_en": "Defend Against Prompt Injection in Layers",
+    "body_en": "Governance-first guidance for production agents recommends layered prompt-injection defense, governed context and evaluation loops, arguing that enterprise AI fails on architecture rather than on models. Build these controls before you scale an agent, not after an incident.",
+    "title_fa": "دفاع لایه‌ای در برابر تزریق پرامپت",
+    "body_fa": "راهنمای «حاکمیت اول» برای عامل‌های عملیاتی، دفاع لایه‌ای در برابر تزریق پرامپت، بافت تحت حاکمیت و حلقه‌های ارزیابی را توصیه می‌کند و معتقد است شکست هوش مصنوعی سازمانی بیشتر از معماری می‌آید تا از مدل. این کنترل‌ها را پیش از مقیاس‌دادن عامل بسازید، نه بعد از وقوع حادثه.",
+    "difficulty": "advanced",
+    "source_url": "https://hackernoon.com/governance-first-ai-preparing-your-agents-for-production"
   }
 ]
