@@ -130,5 +130,17 @@
     "body_fa": "لازم نیست هر فرایندی به یک ایجنت خودمختار سپرده شود. پیش از افزودن ایجنت، از خودتان بپرسید آیا یک سیستم ساده‌تر هم همان مسئله را با پیچیدگی و ریسک کمتر حل می‌کند یا نه.",
     "difficulty": "beginner",
     "source_url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/09/15/stop-making-everything-agentic-a-simpler-way-to-build-ai-systems/"
+  },
+  {
+    "id": "21e015e1-2643-4f63-ba7f-2f6af329a095",
+    "date": "2026-10-15",
+    "posted_at": "2026-10-15T00:31:36.648162+00:00",
+    "telegram_message_id": 36,
+    "title_en": "Design for cost before you scale agents",
+    "body_en": "As generative and agentic AI initiatives scale, the cost of developing, deploying and operating models rises sharply — and the shift to agents can push it higher through poor architecture and limited operational discipline. Treat architecture and operations as cost controls, not afterthoughts.",
+    "title_fa": "پیش از گسترش ایجنت‌ها، هزینه را طراحی کنید",
+    "body_fa": "هرچه طرح‌های هوش مصنوعی مولد و ایجنتی بزرگ‌تر می‌شوند، هزینه توسعه، استقرار و بهره‌برداری از مدل‌ها به‌شدت بالا می‌رود؛ معماری ضعیف و بی‌نظمی در عملیات هم این هزینه را برای ایجنت‌ها بیشتر می‌کند. معماری و عملیات را بخشی از کنترل هزینه بدانید، نه موضوعی حاشیه‌ای.",
+    "difficulty": "advanced",
+    "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
   }
 ]
