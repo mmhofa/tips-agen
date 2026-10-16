@@ -190,5 +190,17 @@
     "body_fa": "بر اساس گزارش VentureBeat Intelligence، سهم سازمان‌هایی که اجازه می‌دهند ایجنت‌ها تنها با اتکا به بررسی‌های خودکار تغییرات محیط تولید را منتشر کنند، از ۷۵٪ در ژوئیه به ۵۶٪ کاهش یافته است؛ نشانه‌ای از اینکه تیم‌ها بازبینی انسانی را دوباره وارد چرخه می‌کنند.",
     "difficulty": "advanced",
     "source_url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-fewer-enterprises-plan-to-let-ai-agents-ship-production-changes-on-automated-checks-alone-56-allow-it-or-plan-to-down-from-75-in-july"
+  },
+  {
+    "id": "4668d663-182d-4db6-a250-554f8bb4c226",
+    "date": "2026-10-16",
+    "posted_at": "2026-10-16T19:33:42.764458+00:00",
+    "telegram_message_id": 41,
+    "title_en": "Audit What Your Agents Leak Into Logs and Context",
+    "body_en": "AI agents can expose API keys and cloud secrets through logs, command histories and model context during ordinary tasks, with no attacker involved. Rotate keys regularly, scrub agent logs, and keep secrets out of anything the agent can read.",
+    "title_fa": "بررسی کنید عامل‌ها چه چیزی را در لاگ‌ها لو می‌دهند",
+    "body_fa": "عامل‌های هوش مصنوعی می‌توانند در جریان کارهای روزمره و بدون حضور هیچ مهاجمی، کلیدهای API و اسرار ابری را از راه لاگ‌ها، تاریخچهٔ فرمان‌ها و بافت مدل بیرون بریزند. کلیدها را دوره‌ای عوض کنید، لاگ‌های عامل را پاک‌سازی کنید و هیچ رمزی را جایی که عامل می‌تواند بخواند نگه ندارید.",
+    "difficulty": "intermediate",
+    "source_url": "https://cybersecuritynews.com/ai-agents-4/"
   }
 ]
