@@ -178,5 +178,17 @@
     "body_fa": "خطر اصلی در شیوهٔ استدلال ایجنت نیست، در دامنهٔ دسترسی اوست. پیش از تولید، فهرست همهٔ سامانه‌ها، مخازن داده و کلیدهایی که ایجنت می‌تواند لمس کند را بنویسید و بعد آن را تا حداقلِ لازم کوچک کنید.",
     "difficulty": "intermediate",
     "source_url": "https://aijourn.com/the-real-ai-risk-isnt-how-agents-think-its-what-they-can-reach/"
+  },
+  {
+    "id": "e0ee6a0a-d54b-480f-bb87-a30a31c3bc25",
+    "date": "2026-10-16",
+    "posted_at": "2026-10-16T09:01:41.590352+00:00",
+    "telegram_message_id": 40,
+    "title_en": "Don't let agents ship on automated checks alone",
+    "body_en": "VentureBeat Intelligence found that 56% of enterprises with AI agents allow production changes on automated checks alone, down from 75% in July — a sign that teams are adding human review before agents ship changes.",
+    "title_fa": "تغییرات محیط تولید را فقط به بررسی خودکار نسپارید",
+    "body_fa": "بر اساس گزارش VentureBeat Intelligence، سهم سازمان‌هایی که اجازه می‌دهند ایجنت‌ها تنها با اتکا به بررسی‌های خودکار تغییرات محیط تولید را منتشر کنند، از ۷۵٪ در ژوئیه به ۵۶٪ کاهش یافته است؛ نشانه‌ای از اینکه تیم‌ها بازبینی انسانی را دوباره وارد چرخه می‌کنند.",
+    "difficulty": "advanced",
+    "source_url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-fewer-enterprises-plan-to-let-ai-agents-ship-production-changes-on-automated-checks-alone-56-allow-it-or-plan-to-down-from-75-in-july"
   }
 ]
