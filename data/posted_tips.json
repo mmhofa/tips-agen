@@ -166,5 +166,17 @@
     "body_fa": "ابزارهای حاکمیتی به‌تنهایی نمی‌توانند جلوی خارج شدن عامل از ریل را بگیرند؛ به همین دلیل «مهندسی ارزیابی» حلقهٔ گمشدهٔ حاکمیت بر هوش مصنوعی عامل‌محور دانسته می‌شود. برای وظایف عامل، آزمون‌های قابل‌اندازه‌گیری تعریف کنید و بعد از هر تغییر اجرایشان کنید تا افت کیفیت را قبل از رسیدن به محیط عملیاتی بگیرید.",
     "difficulty": "advanced",
     "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
+  },
+  {
+    "id": "de2f8e87-ed98-497d-93ed-d0c319c0fc1c",
+    "date": "2026-10-16",
+    "posted_at": "2026-10-16T00:24:49.369946+00:00",
+    "telegram_message_id": 39,
+    "title_en": "Ask What Your Agent Can Reach, Not Just How It Thinks",
+    "body_en": "The real risk isn't how agents reason — it's what they can reach. Before going to production, map every system, data store and credential the agent can touch, then cut that list down to the minimum it actually needs.",
+    "title_fa": "سؤال مهم این نیست که ایجنت چطور فکر می‌کند، این است که به چه چیزهایی دسترسی دارد",
+    "body_fa": "خطر اصلی در شیوهٔ استدلال ایجنت نیست، در دامنهٔ دسترسی اوست. پیش از تولید، فهرست همهٔ سامانه‌ها، مخازن داده و کلیدهایی که ایجنت می‌تواند لمس کند را بنویسید و بعد آن را تا حداقلِ لازم کوچک کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://aijourn.com/the-real-ai-risk-isnt-how-agents-think-its-what-they-can-reach/"
   }
 ]
