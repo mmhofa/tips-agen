@@ -214,5 +214,17 @@
     "body_fa": "شمار شرکت‌هایی که می‌گذارند ایجنت تنها با اتکا به بررسی‌های خودکار تغییرات پروداکشن را منتشر کند رو به کاهش است: ۵۶ درصد چنین اجازه‌ای می‌دهند یا در برنامه دارند، در حالی که این رقم در ژوئیه ۷۵ درصد بود. پیش از اعمال تغییرات ساخته‌شده توسط ایجنت، یک ایستگاه بازبینی انسانی بگذارید.",
     "difficulty": "intermediate",
     "source_url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-fewer-enterprises-plan-to-let-ai-agents-ship-production-changes-on-automated-checks-alone-56-allow-it-or-plan-to-down-from-75-in-july"
+  },
+  {
+    "id": "4f212373-eedb-4ca9-b028-e0e68b247496",
+    "date": "2026-10-17",
+    "posted_at": "2026-10-17T08:33:28.485745+00:00",
+    "telegram_message_id": 43,
+    "title_en": "Treat agentic browsers as a new attack surface",
+    "body_en": "Research on the BragJack proof-of-concept shows agentic browser environments — including Chrome with Gemini, Edge, Opera Neon and Perplexity Comet — can be turned against the user to steal secrets. Before enabling an in-browser agent, limit what it can read and act on, and keep sensitive sessions out of its reach.",
+    "title_fa": "مرورگرهای عامل‌محور را یک سطح حمله تازه بدانید",
+    "body_fa": "پژوهش‌ها روی حمله اثبات‌مفهومی BragJack نشان می‌دهد که محیط‌های مرورگر عامل‌محور — از جمله کروم با Gemini، اج، اپرا نئون و Perplexity Comet — می‌توانند علیه خود کاربر به کار بیفتند و اطلاعات حساس را بیرون بکشند. پیش از فعال‌کردن یک عامل درون مرورگر، دسترسی آن به داده‌ها و اقداماتش را محدود کنید و نشست‌های حساس را از دسترسش دور نگه دارید.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai"
   }
 ]
