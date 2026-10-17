@@ -226,5 +226,17 @@
     "body_fa": "پژوهش‌ها روی حمله اثبات‌مفهومی BragJack نشان می‌دهد که محیط‌های مرورگر عامل‌محور — از جمله کروم با Gemini، اج، اپرا نئون و Perplexity Comet — می‌توانند علیه خود کاربر به کار بیفتند و اطلاعات حساس را بیرون بکشند. پیش از فعال‌کردن یک عامل درون مرورگر، دسترسی آن به داده‌ها و اقداماتش را محدود کنید و نشست‌های حساس را از دسترسش دور نگه دارید.",
     "difficulty": "intermediate",
     "source_url": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai"
+  },
+  {
+    "id": "542e5372-8027-47f7-86da-771ff8b7b8a5",
+    "date": "2026-10-17",
+    "posted_at": "2026-10-17T18:30:02.791849+00:00",
+    "telegram_message_id": 44,
+    "title_en": "Give every agent a verifiable identity",
+    "body_en": "ServiceNow's AI Passport gives enterprise AI agents cryptographically signed credentials that enforce permission limits at runtime. Instead of trusting an agent's own claims about what it may do, bind its permissions to a signed identity that the platform checks on every action.",
+    "title_fa": "به هر ایجنت یک هویت قابل راستی‌آزمایی بدهید",
+    "body_fa": "سرویس AI Passport از ServiceNow برای ایجنت‌های سازمانی اعتبارنامه‌های امضاشده رمزنگاری‌شده صادر می‌کند که محدودیت‌های دسترسی را در زمان اجرا اعمال می‌کنند. به‌جای اعتماد به ادعای خود ایجنت درباره کارهایی که مجاز است انجام دهد، مجوزهایش را به هویتی امضاشده گره بزنید تا پلتفرم در هر اقدام آن را بررسی کند.",
+    "difficulty": "advanced",
+    "source_url": "https://www.msn.com/en-us/news/other/servicenow-gives-enterprise-ai-agents-cryptographic-ids-to-enforce-limits-at-runtime/ar-AA2enxcP?ocid=BingNewsVerp"
   }
 ]
