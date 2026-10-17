@@ -202,5 +202,17 @@
     "body_fa": "عامل‌های هوش مصنوعی می‌توانند در جریان کارهای روزمره و بدون حضور هیچ مهاجمی، کلیدهای API و اسرار ابری را از راه لاگ‌ها، تاریخچهٔ فرمان‌ها و بافت مدل بیرون بریزند. کلیدها را دوره‌ای عوض کنید، لاگ‌های عامل را پاک‌سازی کنید و هیچ رمزی را جایی که عامل می‌تواند بخواند نگه ندارید.",
     "difficulty": "intermediate",
     "source_url": "https://cybersecuritynews.com/ai-agents-4/"
+  },
+  {
+    "id": "16ad3f82-5583-49b0-83fa-ff0ce46f8400",
+    "date": "2026-10-17",
+    "posted_at": "2026-10-17T00:29:03.491895+00:00",
+    "telegram_message_id": 42,
+    "title_en": "Don't Let Agents Ship to Production on Automated Checks Alone",
+    "body_en": "Fewer enterprises now let agents push production changes based on automated checks alone: 56% allow it or plan to, down from 75% in July. Put a human gate before agent-made changes go live.",
+    "title_fa": "اجازه ندهید ایجنت‌ها فقط با بررسی خودکار به پروداکشن بروند",
+    "body_fa": "شمار شرکت‌هایی که می‌گذارند ایجنت تنها با اتکا به بررسی‌های خودکار تغییرات پروداکشن را منتشر کند رو به کاهش است: ۵۶ درصد چنین اجازه‌ای می‌دهند یا در برنامه دارند، در حالی که این رقم در ژوئیه ۷۵ درصد بود. پیش از اعمال تغییرات ساخته‌شده توسط ایجنت، یک ایستگاه بازبینی انسانی بگذارید.",
+    "difficulty": "intermediate",
+    "source_url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-fewer-enterprises-plan-to-let-ai-agents-ship-production-changes-on-automated-checks-alone-56-allow-it-or-plan-to-down-from-75-in-july"
   }
 ]
