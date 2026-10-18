@@ -262,5 +262,17 @@
     "body_fa": "پروژه‌های ایجنت در سازمان‌ها معمولاً نه به‌خاطر انتخاب مدل، بلکه به‌خاطر معماری شکست می‌خورند. قبل از اینکه ایجنت را به محیط عملیاتی بفرستید، دفاع لایه‌ای در برابر تزریق پرامپت، زمینهٔ تحت حاکمیت و حلقه‌های ارزیابی را بسازید.",
     "difficulty": "advanced",
     "source_url": "https://hackernoon.com/governance-first-ai-preparing-your-agents-for-production"
+  },
+  {
+    "id": "1aad425d-bc64-4050-8447-97115b0bb37e",
+    "date": "2026-10-18",
+    "posted_at": "2026-10-18T18:38:27.686208+00:00",
+    "telegram_message_id": 47,
+    "title_en": "Give Every Agent an Identity and an Audit Trail",
+    "body_en": "Before an agent touches production, give it its own identity, least-privilege permissions, and full observability. Treat it like a new employee: define what it can access, log every action, and assign a human owner.",
+    "title_fa": "برای هر ایجنت هویت و ردپای قابل حسابرسی تعریف کنید",
+    "body_fa": "قبل از اینکه ایجنتی به محیط عملیاتی دسترسی پیدا کند، برایش هویت مستقل، کمترین سطح دسترسی لازم و قابلیت رصد کامل در نظر بگیرید. مثل یک کارمند تازه، مشخص کنید به چه چیزهایی دسترسی دارد، همه اقداماتش را ثبت کنید و یک مالک انسانی مسئول آن تعیین کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://hackernoon.com/ai-agents-are-becoming-employees-the-architecture-of-work-has-to-change"
   }
 ]
