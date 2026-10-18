@@ -238,5 +238,17 @@
     "body_fa": "سرویس AI Passport از ServiceNow برای ایجنت‌های سازمانی اعتبارنامه‌های امضاشده رمزنگاری‌شده صادر می‌کند که محدودیت‌های دسترسی را در زمان اجرا اعمال می‌کنند. به‌جای اعتماد به ادعای خود ایجنت درباره کارهایی که مجاز است انجام دهد، مجوزهایش را به هویتی امضاشده گره بزنید تا پلتفرم در هر اقدام آن را بررسی کند.",
     "difficulty": "advanced",
     "source_url": "https://www.msn.com/en-us/news/other/servicenow-gives-enterprise-ai-agents-cryptographic-ids-to-enforce-limits-at-runtime/ar-AA2enxcP?ocid=BingNewsVerp"
+  },
+  {
+    "id": "46b284fa-7255-427a-bc23-7e43fa20a5d8",
+    "date": "2026-10-18",
+    "posted_at": "2026-10-18T00:02:21.749892+00:00",
+    "telegram_message_id": 45,
+    "title_en": "Watch architecture, not just model choice, when controlling agent costs",
+    "body_en": "As generative and agentic initiatives scale, costs climb — and agents can push them higher still when the architecture is weak or operations are poorly managed. Review your architecture and operational practices as the main levers for keeping agent costs under control.",
+    "title_fa": "برای مهار هزینهٔ عامل‌ها، معماری را ببینید نه فقط انتخاب مدل",
+    "body_fa": "با بزرگ‌شدن پروژه‌های هوش مصنوعی مولد و عاملی، هزینه‌ها هم بالا می‌رود؛ و اگر معماری ضعیف باشد یا بهره‌برداری درست مدیریت نشود، عامل‌ها این هزینه را باز هم بیشتر می‌کنند. به‌جای تمرکز صرف روی انتخاب مدل، معماری و شیوهٔ عملیاتی‌تان را اهرم اصلی کنترل هزینه بدانید.",
+    "difficulty": "intermediate",
+    "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
   }
 ]
