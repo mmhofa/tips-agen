@@ -250,5 +250,17 @@
     "body_fa": "با بزرگ‌شدن پروژه‌های هوش مصنوعی مولد و عاملی، هزینه‌ها هم بالا می‌رود؛ و اگر معماری ضعیف باشد یا بهره‌برداری درست مدیریت نشود، عامل‌ها این هزینه را باز هم بیشتر می‌کنند. به‌جای تمرکز صرف روی انتخاب مدل، معماری و شیوهٔ عملیاتی‌تان را اهرم اصلی کنترل هزینه بدانید.",
     "difficulty": "intermediate",
     "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
+  },
+  {
+    "id": "afa3bf91-fe74-4525-ae82-c8f90586abd8",
+    "date": "2026-10-18",
+    "posted_at": "2026-10-18T08:51:24.458413+00:00",
+    "telegram_message_id": 46,
+    "title_en": "Design for Governance Before Production",
+    "body_en": "Enterprise agent projects usually fail on architecture, not on model choice. Build layered prompt-injection defenses, governed context, and evaluation loops before you ship an agent to production.",
+    "title_fa": "پیش از تولید، حاکمیت را طراحی کنید",
+    "body_fa": "پروژه‌های ایجنت در سازمان‌ها معمولاً نه به‌خاطر انتخاب مدل، بلکه به‌خاطر معماری شکست می‌خورند. قبل از اینکه ایجنت را به محیط عملیاتی بفرستید، دفاع لایه‌ای در برابر تزریق پرامپت، زمینهٔ تحت حاکمیت و حلقه‌های ارزیابی را بسازید.",
+    "difficulty": "advanced",
+    "source_url": "https://hackernoon.com/governance-first-ai-preparing-your-agents-for-production"
   }
 ]
