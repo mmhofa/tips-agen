@@ -286,5 +286,17 @@
     "body_fa": "استقرار عامل‌های هوش مصنوعی وقتی موفق است که جریان‌های کاری زیربنایی برای آن‌ها طراحی شده باشند. به‌جای خودکارسازی فرایندی که تغییری نکرده، از همان ابتدا تیم‌های فناوری اطلاعات و عملیات را هماهنگ کنید.",
     "difficulty": "intermediate",
     "source_url": "https://hitconsultant.net/2026/08/24/four-lessons-from-ehr-transformations-for-healthcare-agentic-ai-brg/"
+  },
+  {
+    "id": "07a2c43d-0185-45b2-8a52-6a09c40bcb0e",
+    "date": "2026-10-19",
+    "posted_at": "2026-10-19T09:53:17.206935+00:00",
+    "telegram_message_id": 49,
+    "title_en": "Cap agent actions before they scale",
+    "body_en": "Before letting an agent run unattended, add hard limits and human approval for high-impact actions such as bulk email sends. A single runaway automation loop can otherwise cause damage at machine speed.",
+    "title_fa": "قبل از مقیاس‌پذیری، دستِ عامل را ببندید",
+    "body_fa": "پیش از اینکه یک عامل هوش مصنوعی را بدون نظارت رها کنید، برای اقدام‌های پرتأثیر مثل ارسال انبوه ایمیل سقف سخت و تأیید انسانی بگذارید؛ وگرنه یک حلقهٔ خودکارِ خارج از کنترل می‌تواند با سرعت ماشین خسارت بزند.",
+    "difficulty": "beginner",
+    "source_url": "https://www.forbes.com/sites/terdawn-deboe/2026/10/18/small-businesses-get-more-from-ai-agents-by-adding-guardrails/"
   }
 ]
