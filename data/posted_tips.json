@@ -274,5 +274,17 @@
     "body_fa": "قبل از اینکه ایجنتی به محیط عملیاتی دسترسی پیدا کند، برایش هویت مستقل، کمترین سطح دسترسی لازم و قابلیت رصد کامل در نظر بگیرید. مثل یک کارمند تازه، مشخص کنید به چه چیزهایی دسترسی دارد، همه اقداماتش را ثبت کنید و یک مالک انسانی مسئول آن تعیین کنید.",
     "difficulty": "intermediate",
     "source_url": "https://hackernoon.com/ai-agents-are-becoming-employees-the-architecture-of-work-has-to-change"
+  },
+  {
+    "id": "39337755-e31c-4274-8a71-05690df02f75",
+    "date": "2026-10-19",
+    "posted_at": "2026-10-19T00:12:54.879779+00:00",
+    "telegram_message_id": 48,
+    "title_en": "Redesign the workflow before deploying the agent",
+    "body_en": "Agentic AI rollouts succeed when underlying workflows are designed for them; coordinate IT and operations teams early rather than automating an unchanged process.",
+    "title_fa": "پیش از استقرار عامل، جریان کار را بازطراحی کنید",
+    "body_fa": "استقرار عامل‌های هوش مصنوعی وقتی موفق است که جریان‌های کاری زیربنایی برای آن‌ها طراحی شده باشند. به‌جای خودکارسازی فرایندی که تغییری نکرده، از همان ابتدا تیم‌های فناوری اطلاعات و عملیات را هماهنگ کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://hitconsultant.net/2026/08/24/four-lessons-from-ehr-transformations-for-healthcare-agentic-ai-brg/"
   }
 ]
