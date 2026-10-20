@@ -298,5 +298,17 @@
     "body_fa": "پیش از اینکه یک عامل هوش مصنوعی را بدون نظارت رها کنید، برای اقدام‌های پرتأثیر مثل ارسال انبوه ایمیل سقف سخت و تأیید انسانی بگذارید؛ وگرنه یک حلقهٔ خودکارِ خارج از کنترل می‌تواند با سرعت ماشین خسارت بزند.",
     "difficulty": "beginner",
     "source_url": "https://www.forbes.com/sites/terdawn-deboe/2026/10/18/small-businesses-get-more-from-ai-agents-by-adding-guardrails/"
+  },
+  {
+    "id": "a360bbe2-ad3d-4c09-a7f4-dfbd4a2fbb12",
+    "date": "2026-10-20",
+    "posted_at": "2026-10-20T20:00:41.073264+00:00",
+    "telegram_message_id": 50,
+    "title_en": "Start with Anthropic's Free Agent-Building Course",
+    "body_en": "Before wiring up your own stack, work through Anthropic's free one-hour crash course on building AI agents with Claude Opus 5.5. It covers agent architecture and skills, so it gives you a shared vocabulary for everything you build afterwards.",
+    "title_fa": "با دوره رایگان آنتروپیک شروع کنید",
+    "body_fa": "پیش از اینکه سراغ پیکربندی ابزار و سرویس خودتان بروید، یک ساعت وقت بگذارید و دوره رایگان آنتروپیک درباره ساخت ایجنت‌های هوش مصنوعی با Claude Opus 5.5 را ببینید. این دوره معماری و مهارت‌های ایجنت را پوشش می‌دهد و به شما واژگان مشترکی می‌دهد که در ادامه کار به دردتان می‌خورد.",
+    "difficulty": "beginner",
+    "source_url": "https://cryptobriefing.com/anthropic-free-ai-agents-course-opus/"
   }
 ]
