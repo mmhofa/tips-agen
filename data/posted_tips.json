@@ -334,5 +334,17 @@
     "body_fa": "ارزیابی را جدا از حاکمیت ندانید. پیش از افزایش دسترسی‌ها یا عرضهٔ گستردهٔ هر عامل، آزمون‌های وظیفه‌محور و معیارهای شکست روشن تعریف کنید. به گزارش SiliconANGLE، مهندسی ارزیابی همان حلقهٔ گمشده‌ای است که مانع خارج شدن عامل‌ها از ریل می‌شود.",
     "difficulty": "advanced",
     "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
+  },
+  {
+    "id": "35d14f88-a8e8-45d9-b270-89f2fed01f06",
+    "date": "2026-10-21",
+    "posted_at": "2026-10-21T20:10:02.272576+00:00",
+    "telegram_message_id": 53,
+    "title_en": "Fix architecture before blaming model costs",
+    "body_en": "Agent costs often come from poor architecture and operations, not just token prices. Before scaling, review which steps truly need a large model, remove redundant calls, and set budgets and alerts per workflow.",
+    "title_fa": "هزینه را در معماری کنترل کنید، نه فقط در مدل",
+    "body_fa": "هزینه ایجنت‌ها اغلب از معماری و بهره‌برداری ضعیف می‌آید، نه فقط از قیمت توکن. پیش از مقیاس‌دهی بررسی کنید کدام مراحل واقعاً به مدل بزرگ نیاز دارند، فراخوانی‌های تکراری را حذف کنید و برای هر جریان کاری بودجه و هشدار بگذارید.",
+    "difficulty": "beginner",
+    "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
   }
 ]
