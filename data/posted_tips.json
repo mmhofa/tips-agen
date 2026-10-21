@@ -310,5 +310,17 @@
     "body_fa": "پیش از اینکه سراغ پیکربندی ابزار و سرویس خودتان بروید، یک ساعت وقت بگذارید و دوره رایگان آنتروپیک درباره ساخت ایجنت‌های هوش مصنوعی با Claude Opus 5.5 را ببینید. این دوره معماری و مهارت‌های ایجنت را پوشش می‌دهد و به شما واژگان مشترکی می‌دهد که در ادامه کار به دردتان می‌خورد.",
     "difficulty": "beginner",
     "source_url": "https://cryptobriefing.com/anthropic-free-ai-agents-course-opus/"
+  },
+  {
+    "id": "601c6ade-6587-479a-b0c1-f6af90cdbf1a",
+    "date": "2026-10-21",
+    "posted_at": "2026-10-21T00:37:34.055494+00:00",
+    "telegram_message_id": 51,
+    "title_en": "Give agents an employee-style identity",
+    "body_en": "As agents take actions beyond chat, define identity, permissions, governance, observability, and accountability for them just as you would for a new hire.",
+    "title_fa": "به عامل‌ها هویت کارمندی بدهید",
+    "body_fa": "وقتی عامل‌ها از گفت‌وگو فراتر می‌روند و دست به اقدام می‌زنند، برایشان هویت، مجوز، حاکمیت، رصدپذیری و پاسخگویی تعریف کنید؛ درست مثل کارمند تازه‌وارد.",
+    "difficulty": "beginner",
+    "source_url": "https://hackernoon.com/ai-agents-are-becoming-employees-the-architecture-of-work-has-to-change"
   }
 ]
