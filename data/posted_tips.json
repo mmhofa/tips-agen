@@ -322,5 +322,17 @@
     "body_fa": "وقتی عامل‌ها از گفت‌وگو فراتر می‌روند و دست به اقدام می‌زنند، برایشان هویت، مجوز، حاکمیت، رصدپذیری و پاسخگویی تعریف کنید؛ درست مثل کارمند تازه‌وارد.",
     "difficulty": "beginner",
     "source_url": "https://hackernoon.com/ai-agents-are-becoming-employees-the-architecture-of-work-has-to-change"
+  },
+  {
+    "id": "5b3420d8-7597-4243-9171-831dc69bc6e7",
+    "date": "2026-10-21",
+    "posted_at": "2026-10-21T09:22:31.038263+00:00",
+    "telegram_message_id": 52,
+    "title_en": "Build an evaluation harness before scaling agents",
+    "body_en": "Treat evaluation as part of governance, not an afterthought. Before widening an agent's permissions or rolling it out, define task-level tests and clear failure criteria. SiliconANGLE describes eval engineering as the missing piece that keeps agents from going off the rails.",
+    "title_fa": "پیش از گسترش عامل‌ها، سامانهٔ ارزیابی راه بیندازید",
+    "body_fa": "ارزیابی را جدا از حاکمیت ندانید. پیش از افزایش دسترسی‌ها یا عرضهٔ گستردهٔ هر عامل، آزمون‌های وظیفه‌محور و معیارهای شکست روشن تعریف کنید. به گزارش SiliconANGLE، مهندسی ارزیابی همان حلقهٔ گمشده‌ای است که مانع خارج شدن عامل‌ها از ریل می‌شود.",
+    "difficulty": "advanced",
+    "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
   }
 ]
