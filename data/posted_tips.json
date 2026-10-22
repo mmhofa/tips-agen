@@ -346,5 +346,17 @@
     "body_fa": "هزینه ایجنت‌ها اغلب از معماری و بهره‌برداری ضعیف می‌آید، نه فقط از قیمت توکن. پیش از مقیاس‌دهی بررسی کنید کدام مراحل واقعاً به مدل بزرگ نیاز دارند، فراخوانی‌های تکراری را حذف کنید و برای هر جریان کاری بودجه و هشدار بگذارید.",
     "difficulty": "beginner",
     "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
+  },
+  {
+    "id": "4a191de7-cd37-4ea2-ba64-f6097a7ae3d6",
+    "date": "2026-10-22",
+    "posted_at": "2026-10-22T00:41:27.247074+00:00",
+    "telegram_message_id": 54,
+    "title_en": "Expand personal agent permissions gradually",
+    "body_en": "Personal AI agents become more capable as you give them more access, but that also increases risk. Start with narrow permissions and widen them only after you have verified the agent's behavior.",
+    "title_fa": "دسترسی ایجنت شخصی را مرحله‌به‌مرحله گسترش دهید",
+    "body_fa": "هرچه به ایجنت شخصی دسترسی بیشتری بدهید توانمندتر می‌شود، اما ریسک هم بالا می‌رود. با مجوزهای محدود شروع کنید و فقط بعد از اطمینان از رفتار ایجنت، دامنه دسترسی را بازتر کنید.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/cybersecurity/articles/trust-personal-ai-agents-security-201140453.html"
   }
 ]
