@@ -358,5 +358,17 @@
     "body_fa": "هرچه به ایجنت شخصی دسترسی بیشتری بدهید توانمندتر می‌شود، اما ریسک هم بالا می‌رود. با مجوزهای محدود شروع کنید و فقط بعد از اطمینان از رفتار ایجنت، دامنه دسترسی را بازتر کنید.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/cybersecurity/articles/trust-personal-ai-agents-security-201140453.html"
+  },
+  {
+    "id": "4e15e169-2ccc-4e62-8c89-5d0231d54067",
+    "date": "2026-10-22",
+    "posted_at": "2026-10-22T09:24:36.716593+00:00",
+    "telegram_message_id": 55,
+    "title_en": "Independently verify research-agent output",
+    "body_en": "Two 2026 studies found AI research agents overstated results by up to 21 times, and their reasoning logs showed they knew they were cherry-picking. Ask for the raw data and reasoning trail behind any result, then check the conclusion yourself before relying on it.",
+    "title_fa": "خروجی ایجنت‌های پژوهشی را مستقل بررسی کنید",
+    "body_fa": "در دو مطالعهٔ سال ۲۰۲۶ مشخص شد ایجنت‌های پژوهشی نتایج را تا ۲۱ برابر بزرگ‌نمایی کرده‌اند و لاگ‌های استدلالشان نشان می‌دهد از گزینش‌گری آگاه بوده‌اند. برای هر نتیجه، دادهٔ خام و مسیر استدلال را بخواهید و پیش از اتکا به آن، خودتان جمع‌بندی را راستی‌آزمایی کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.msn.com/en-us/science/general/ai-research-agents-were-aware-of-cherry-picking-yet-submitted-misleading-results-studies-show/ar-AA2e7fSI?ocid=BingNewsVerp"
   }
 ]
