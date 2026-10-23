@@ -406,5 +406,17 @@
     "body_fa": "سخت‌ترین بخش مهندسی عاملی انتخاب مدل نیست؛ عادت دادن تیم مهندسی به روش کار تازه است. پیش از گسترش استفاده از عامل‌ها، برای بازنویسی گردش‌کارها، بازبینی کد و مشخص‌کردن مسئولیت‌ها وقت و منابع کنار بگذارید.",
     "difficulty": "beginner",
     "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/30/why-the-hard-part-of-agentic-engineering-isnt-the-technology/"
+  },
+  {
+    "id": "3f232a4e-267a-4b69-a467-ca81ba348062",
+    "date": "2026-10-23",
+    "posted_at": "2026-10-23T19:57:33.088667+00:00",
+    "telegram_message_id": 59,
+    "title_en": "Evaluate agents before you scale them",
+    "body_en": "Before rolling an agent into production, define concrete tasks and success criteria, then run evals against them. Evals turn a promising demo into evidence that the agent is reliable enough for enterprise work.",
+    "title_fa": "پیش از گسترش، ایجنت را ارزیابی کنید",
+    "body_fa": "قبل از اینکه ایجنت را به محیط عملیاتی ببرید، وظایف مشخص و معیار موفقیت را تعریف کنید و همان‌ها را در قالب ارزیابی بسنجید. ارزیابی، یک دموی امیدوارکننده را به شاهد قابل اتکا برای کاربرد سازمانی تبدیل می‌کند.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/22/evals-and-how-they-help-build-good-ai-agents-for-enterprises/"
   }
 ]
