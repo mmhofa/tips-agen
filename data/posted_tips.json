@@ -394,5 +394,17 @@
     "body_fa": "قبل از اینکه عامل هوشمند را به کارهای بیشتر یا کاربران بیشتری گسترش بدهید، یک مجموعه ارزیابی کوچک از نمونه‌های واقعی همراه با خروجی مورد انتظار بسازید و پس از هر تغییر آن را اجرا کنید. ارزیابی‌ها به‌جای حس شخصی، شاهد عینی می‌دهند که عامل واقعاً همان کاری را که برایش ساخته شده انجام می‌دهد یا نه.",
     "difficulty": "intermediate",
     "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/22/evals-and-how-they-help-build-good-ai-agents-for-enterprises/"
+  },
+  {
+    "id": "b32c8b73-5544-46ec-a70e-a6038a3d6949",
+    "date": "2026-10-23",
+    "posted_at": "2026-10-23T09:21:00.690156+00:00",
+    "telegram_message_id": 58,
+    "title_en": "Treat agent adoption as a team-process change",
+    "body_en": "The hard part of agentic engineering isn't picking a model; it's getting the engineering team to work differently. Budget time for rewriting workflows, review habits and ownership before you scale up agent usage.",
+    "title_fa": "پذیرش عامل هوشمند، بیش از فناوری، تغییر فرایند تیم است",
+    "body_fa": "سخت‌ترین بخش مهندسی عاملی انتخاب مدل نیست؛ عادت دادن تیم مهندسی به روش کار تازه است. پیش از گسترش استفاده از عامل‌ها، برای بازنویسی گردش‌کارها، بازبینی کد و مشخص‌کردن مسئولیت‌ها وقت و منابع کنار بگذارید.",
+    "difficulty": "beginner",
+    "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/30/why-the-hard-part-of-agentic-engineering-isnt-the-technology/"
   }
 ]
