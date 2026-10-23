@@ -382,5 +382,17 @@
     "body_fa": "یک معمار ارشد نرم‌افزار استدلال می‌کند که موفقیت سیستم‌های هوش مصنوعی مولد به طراحی مستحکم سیستم وابسته است، نه به پرامپت‌های زیرکانه. وقتی ایجنت درست کار نمی‌کند، اول کیفیت بازیابی اطلاعات، مرزهای ابزارها و مدیریت خطا را بررسی کنید؛ بازنویسی پرامپت معمولاً آخرین گزینه است.",
     "difficulty": "advanced",
     "source_url": "https://tech.yahoo.com/ai/meta-ai/articles/why-architecture-matters-more-prompts-011954558.html"
+  },
+  {
+    "id": "912e9448-0a7c-49f5-8261-b69bec2e42dc",
+    "date": "2026-10-23",
+    "posted_at": "2026-10-23T00:40:05.505516+00:00",
+    "telegram_message_id": 57,
+    "title_en": "Write Evals Before You Scale an Agent",
+    "body_en": "Before you widen an agent's scope to more tasks or more users, build a small evaluation set from real cases with expected outcomes, and run it on every change. Evals replace \"it feels better\" with evidence that the agent actually completes the work it was built for.",
+    "title_fa": "پیش از بزرگ‌کردن عامل، ارزیابی داشته باش",
+    "body_fa": "قبل از اینکه عامل هوشمند را به کارهای بیشتر یا کاربران بیشتری گسترش بدهید، یک مجموعه ارزیابی کوچک از نمونه‌های واقعی همراه با خروجی مورد انتظار بسازید و پس از هر تغییر آن را اجرا کنید. ارزیابی‌ها به‌جای حس شخصی، شاهد عینی می‌دهند که عامل واقعاً همان کاری را که برایش ساخته شده انجام می‌دهد یا نه.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/22/evals-and-how-they-help-build-good-ai-agents-for-enterprises/"
   }
 ]
