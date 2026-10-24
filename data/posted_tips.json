@@ -430,5 +430,17 @@
     "body_fa": "عاملی که قرار است تیکت ببندد یا قرارداد خلاصه کند، بدون سنجهٔ کیفیت قابل اتکا نیست. برای هر کار چندمرحله‌ای ارزیابی تعریف کنید تا پیش از رسیدن به مشتری یا سند واقعی، بتوانید درستی عملکردش را نشان دهید.",
     "difficulty": "intermediate",
     "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/22/evals-and-how-they-help-build-good-ai-agents-for-enterprises/"
+  },
+  {
+    "id": "780c0cc7-048c-407e-bd60-3e309e70a605",
+    "date": "2026-10-24",
+    "posted_at": "2026-10-24T08:52:31.319593+00:00",
+    "telegram_message_id": 61,
+    "title_en": "Redesign the workflow before deploying the agent",
+    "body_en": "Agent rollouts fail when the agent is dropped on top of a process nobody rethought. Lessons from healthcare deployments are blunt: success depends on whether the underlying workflows are designed to support the agent, and IT must coordinate closely with operations teams rather than hand over a tool.",
+    "title_fa": "پیش از استقرار ایجنت، فرایند کاری را بازطراحی کنید",
+    "body_fa": "اگر ایجنت را روی فرایندی بیندازید که هیچ‌کس بازنگری‌اش نکرده، پروژه شکست می‌خورد. تجربهٔ استقرار در حوزهٔ سلامت صریح است: موفقیت به این بستگی دارد که فرایندهای زیربنایی برای پشتیبانی از ایجنت طراحی شده باشند و تیم فناوری اطلاعات به‌جای تحویل دادن یک ابزار، با تیم‌های عملیاتی هماهنگی نزدیک داشته باشد.",
+    "difficulty": "intermediate",
+    "source_url": "https://hitconsultant.net/2026/08/24/four-lessons-from-ehr-transformations-for-healthcare-agentic-ai-brg/"
   }
 ]
