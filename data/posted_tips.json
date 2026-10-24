@@ -418,5 +418,17 @@
     "body_fa": "قبل از اینکه ایجنت را به محیط عملیاتی ببرید، وظایف مشخص و معیار موفقیت را تعریف کنید و همان‌ها را در قالب ارزیابی بسنجید. ارزیابی، یک دموی امیدوارکننده را به شاهد قابل اتکا برای کاربرد سازمانی تبدیل می‌کند.",
     "difficulty": "intermediate",
     "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/22/evals-and-how-they-help-build-good-ai-agents-for-enterprises/"
+  },
+  {
+    "id": "c8b14146-787b-4a9d-abd2-b28b25efbe37",
+    "date": "2026-10-24",
+    "posted_at": "2026-10-24T00:41:31.624741+00:00",
+    "telegram_message_id": 60,
+    "title_en": "Build evals before you scale the agent",
+    "body_en": "Autonomous agents that resolve tickets or synthesize contracts need measurable quality gates. Set up evaluations for each multi-step task so you can prove the agent works before it touches real customers or documents.",
+    "title_fa": "قبل از گسترش عامل، سنجه‌های ارزیابی بسازید",
+    "body_fa": "عاملی که قرار است تیکت ببندد یا قرارداد خلاصه کند، بدون سنجهٔ کیفیت قابل اتکا نیست. برای هر کار چندمرحله‌ای ارزیابی تعریف کنید تا پیش از رسیدن به مشتری یا سند واقعی، بتوانید درستی عملکردش را نشان دهید.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/22/evals-and-how-they-help-build-good-ai-agents-for-enterprises/"
   }
 ]
