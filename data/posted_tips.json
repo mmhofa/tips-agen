@@ -442,5 +442,17 @@
     "body_fa": "اگر ایجنت را روی فرایندی بیندازید که هیچ‌کس بازنگری‌اش نکرده، پروژه شکست می‌خورد. تجربهٔ استقرار در حوزهٔ سلامت صریح است: موفقیت به این بستگی دارد که فرایندهای زیربنایی برای پشتیبانی از ایجنت طراحی شده باشند و تیم فناوری اطلاعات به‌جای تحویل دادن یک ابزار، با تیم‌های عملیاتی هماهنگی نزدیک داشته باشد.",
     "difficulty": "intermediate",
     "source_url": "https://hitconsultant.net/2026/08/24/four-lessons-from-ehr-transformations-for-healthcare-agentic-ai-brg/"
+  },
+  {
+    "id": "693aa6c5-82b6-4736-be1d-e752161ced49",
+    "date": "2026-10-24",
+    "posted_at": "2026-10-24T18:47:45.765461+00:00",
+    "telegram_message_id": 62,
+    "title_en": "Don't Scale Agentic AI Without Governance",
+    "body_en": "A Capgemini survey found that 68% of automotive organizations use or pilot agentic AI for product development, but only 5% report mature AI governance. Before expanding a pilot, assign owners, approval gates, and audit trails so adoption does not outrun oversight.",
+    "title_fa": "پایلوت عامل‌های هوشمند را بدون حاکمیت گسترش ندهید",
+    "body_fa": "بر اساس پژوهش کپ‌جمینی، ۶۸٪ سازمان‌های خودروسازی از هوش مصنوعی عامل‌محور در توسعه محصول استفاده می‌کنند یا آن را پایلوت کرده‌اند، اما فقط ۵٪ حاکمیت بالغ بر آن دارند. پیش از تبدیل پایلوت به استقرار گسترده، مالک، دروازه‌های تأیید و ردپای حسابرسی را مشخص کنید تا سرعت پذیرش از نظارت جلو نزند.",
+    "difficulty": "intermediate",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/68-automotive-organizations-pilot-agentic-154500002.html"
   }
 ]
