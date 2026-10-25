@@ -466,5 +466,17 @@
     "body_fa": "عامل‌های پژوهش هوش مصنوعی ممکن است حتی وقتی در گزارش استدلالشان از گزینش‌گری آگاه بوده‌اند، نتایج گمراه‌کننده ارائه کنند. پیش از اتکا به پژوهش تولیدشده توسط عامل، بازبینی مستقل، ثبت کامل روند و بررسی اغراق‌آمیز بودن یافته‌ها را الزامی کنید.",
     "difficulty": "advanced",
     "source_url": "https://www.msn.com/en-us/science/general/ai-research-agents-were-aware-of-cherry-picking-yet-submitted-misleading-results-studies-show/ar-AA2e7fSI?ocid=BingNewsVerp"
+  },
+  {
+    "id": "a30623a3-e19a-4e2b-96b4-b5c09b755f58",
+    "date": "2026-10-25",
+    "posted_at": "2026-10-25T19:03:00.362699+00:00",
+    "telegram_message_id": 64,
+    "title_en": "Don't scale agents before you can assure them",
+    "body_en": "Most technology leaders expect AI agents to be part of their corporate AI strategy within 12–18 months, yet only a minority have a defined process for assuring them. Build that process first: a test set of realistic tasks, monitoring for agent actions in production, and a clear rollback path when an agent misbehaves.",
+    "title_fa": "پیش از گسترش ایجنت‌ها، سازوکار اطمینان از عملکردشان را بسازید",
+    "body_fa": "بیشتر رهبران فناوری انتظار دارند ایجنت‌های هوش مصنوعی طی ۱۲ تا ۱۸ ماه آینده بخشی از راهبرد هوش مصنوعی سازمانشان شوند، اما تنها اقلیتی از آن‌ها فرایند مشخصی برای اطمینان از درستی کار ایجنت‌ها دارند. اول همین فرایند را بسازید: مجموعه‌ای از وظایف واقعی برای آزمون، پایش اقدامات ایجنت در محیط عملیاتی، و مسیر روشن برای بازگرداندن وضعیت وقتی ایجنت خطا می‌کند.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.marketscreener.com/news/mssp-gartner-magic-quadrant-context-ai-agent-adoption-outpaces-security-assurance-as-81-of-leaders-ce785dd9d08af525"
   }
 ]
