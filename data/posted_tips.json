@@ -490,5 +490,17 @@
     "body_fa": "بیشتر مدیران قصد دارند در بازه ۱۲ تا ۱۸ ماه ایجنت‌های هوش مصنوعی را وارد استراتژی سازمان کنند، اما تنها حدود یک‌سوم سازمان‌ها فرایند مشخصی برای این کار دارند. حاکمیت را پیش‌نیاز بدانید نه کار بعدی: قبل از اولین استقرار عملیاتی روشن کنید چه کسی ایجنت را تأیید می‌کند، به چه داده‌هایی دسترسی دارد و رفتارش چگونه بازبینی می‌شود.",
     "difficulty": "intermediate",
     "source_url": "https://www.marketscreener.com/news/mssp-gartner-magic-quadrant-context-ai-agent-adoption-outpaces-security-assurance-as-81-of-leaders-ce785dd9d08af525"
+  },
+  {
+    "id": "894caf30-5621-42bc-8c82-ce7f1abb06c4",
+    "date": "2026-10-26",
+    "posted_at": "2026-10-26T10:06:21.756672+00:00",
+    "telegram_message_id": 66,
+    "title_en": "Make agent activity observable",
+    "body_en": "Many companies cannot say what their AI agents did yesterday, which is why runtime telemetry tools are emerging. Capture a log of each agent's actions and decisions so you can reconstruct its behaviour when something goes wrong.",
+    "title_fa": "رفتار عامل‌ها را قابل رصد کنید",
+    "body_fa": "خیلی از شرکت‌ها نمی‌توانند بگویند عامل‌هایشان دیروز چه کاری انجام داده‌اند؛ به همین دلیل ابزارهای تله‌متری زمان اجرا دارند رواج پیدا می‌کنند. کاری کنید که هر اقدام و تصمیم عامل ثبت شود تا وقتی مشکلی پیش آمد بتوانید مسیر رفتارش را بازسازی کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.alleywatch.com/2026/10/asymptote-labs-ai-agent-governance-runtime-infrastructure-security-beacon-open-source-telemetry-justin-d-souza/"
   }
 ]
