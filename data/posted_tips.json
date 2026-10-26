@@ -502,5 +502,17 @@
     "body_fa": "خیلی از شرکت‌ها نمی‌توانند بگویند عامل‌هایشان دیروز چه کاری انجام داده‌اند؛ به همین دلیل ابزارهای تله‌متری زمان اجرا دارند رواج پیدا می‌کنند. کاری کنید که هر اقدام و تصمیم عامل ثبت شود تا وقتی مشکلی پیش آمد بتوانید مسیر رفتارش را بازسازی کنید.",
     "difficulty": "intermediate",
     "source_url": "https://www.alleywatch.com/2026/10/asymptote-labs-ai-agent-governance-runtime-infrastructure-security-beacon-open-source-telemetry-justin-d-souza/"
+  },
+  {
+    "id": "bdeb7c7b-c844-486a-9a21-51dac62f1657",
+    "date": "2026-10-26",
+    "posted_at": "2026-10-26T21:00:55.499314+00:00",
+    "telegram_message_id": 67,
+    "title_en": "Don't mistake capability for autonomy",
+    "body_en": "An agent can produce an impressive answer while still making a poor decision about what to do next. Separate the quality of its output from its authority to act: require human approval or hard limits before any consequential step.",
+    "title_fa": "توانایی را با اختیار اشتباه نگیرید",
+    "body_fa": "ممکن است عامل پاسخی چشمگیر بدهد اما در تصمیم درباره قدم بعدی اشتباه کند. کیفیت خروجی را از اختیار عمل جدا کنید: پیش از هر اقدام پرپیامد، تأیید انسانی یا محدودیت سخت بگذارید.",
+    "difficulty": "advanced",
+    "source_url": "https://www.analyticsinsight.net/artificial-intelligence/anshul-sawant-says-ais-biggest-risk-may-be-mistaking-capability-for-autonomy"
   }
 ]
