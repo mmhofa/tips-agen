@@ -478,5 +478,17 @@
     "body_fa": "بیشتر رهبران فناوری انتظار دارند ایجنت‌های هوش مصنوعی طی ۱۲ تا ۱۸ ماه آینده بخشی از راهبرد هوش مصنوعی سازمانشان شوند، اما تنها اقلیتی از آن‌ها فرایند مشخصی برای اطمینان از درستی کار ایجنت‌ها دارند. اول همین فرایند را بسازید: مجموعه‌ای از وظایف واقعی برای آزمون، پایش اقدامات ایجنت در محیط عملیاتی، و مسیر روشن برای بازگرداندن وضعیت وقتی ایجنت خطا می‌کند.",
     "difficulty": "intermediate",
     "source_url": "https://www.marketscreener.com/news/mssp-gartner-magic-quadrant-context-ai-agent-adoption-outpaces-security-assurance-as-81-of-leaders-ce785dd9d08af525"
+  },
+  {
+    "id": "2056fa8a-e23c-436e-ac28-64095e5523f0",
+    "date": "2026-10-26",
+    "posted_at": "2026-10-26T00:22:42.928513+00:00",
+    "telegram_message_id": 65,
+    "title_en": "Build the assurance process before you scale",
+    "body_en": "Most leaders plan to fold AI agents into their strategy within 12–18 months, yet only about a third of organizations have a defined process for it. Treat governance as a prerequisite, not a follow-up: agree on who approves an agent, what it may touch, and how its behaviour is reviewed before the first production rollout.",
+    "title_fa": "پیش از گسترش، فرایند نظارت را بسازید",
+    "body_fa": "بیشتر مدیران قصد دارند در بازه ۱۲ تا ۱۸ ماه ایجنت‌های هوش مصنوعی را وارد استراتژی سازمان کنند، اما تنها حدود یک‌سوم سازمان‌ها فرایند مشخصی برای این کار دارند. حاکمیت را پیش‌نیاز بدانید نه کار بعدی: قبل از اولین استقرار عملیاتی روشن کنید چه کسی ایجنت را تأیید می‌کند، به چه داده‌هایی دسترسی دارد و رفتارش چگونه بازبینی می‌شود.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.marketscreener.com/news/mssp-gartner-magic-quadrant-context-ai-agent-adoption-outpaces-security-assurance-as-81-of-leaders-ce785dd9d08af525"
   }
 ]
