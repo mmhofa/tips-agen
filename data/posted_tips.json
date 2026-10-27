@@ -526,5 +526,17 @@
     "body_fa": "فهرستی از همهٔ ایجنت‌های هوش مصنوعی، از جمله ایجنت‌های غیرفعال، نگه دارید. ایجنت‌های خاموش معمولاً اعتبارنامه و دسترسی سیستمی خود را حفظ می‌کنند؛ بنابراین این دسترسی‌ها را باطل کنید و ایجنت‌هایی را که دیگر استفاده نمی‌شوند رسماً بازنشسته کنید.",
     "difficulty": "intermediate",
     "source_url": "https://www.helpnetsecurity.com/2026/10/26/arrakis-dormant-ai-agent-risks-report/"
+  },
+  {
+    "id": "aad6b0ae-9d70-4e3a-a4db-25d65f4b8531",
+    "date": "2026-10-27",
+    "posted_at": "2026-10-27T09:48:41.030133+00:00",
+    "telegram_message_id": 69,
+    "title_en": "Treat every agent tool as a permission boundary",
+    "body_en": "Agentic systems can plan, call tools, retain state, and cause changes across digital or physical environments, which creates risks such as tool misuse, privilege abuse, and behavior hijacking. Review each tool's permissions and limit what the agent can do before giving it production access.",
+    "title_fa": "هر ابزار ایجنت را یک مرز دسترسی در نظر بگیرید",
+    "body_fa": "سیستم‌های ایجنت‌ی می‌توانند برنامه‌ریزی کنند، ابزار صدا بزنند، وضعیت را نگه دارند و در محیط‌های دیجیتال یا فیزیکی تغییر ایجاد کنند؛ همین موضوع ریسک‌هایی مثل سوءاستفاده از ابزار، سوءاستفاده از دسترسی و ربودن رفتار را به وجود می‌آورد. پیش از دادن دسترسی عملیاتی به ایجنت، مجوزهای هر ابزار را بازبینی کنید و دامنه کاری آن را محدود نگه دارید.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.unite.ai/what-is-agentic-ai-security-tool-misuse-privilege-abuse-and-behavior-hijacking/"
   }
 ]
