@@ -538,5 +538,17 @@
     "body_fa": "سیستم‌های ایجنت‌ی می‌توانند برنامه‌ریزی کنند، ابزار صدا بزنند، وضعیت را نگه دارند و در محیط‌های دیجیتال یا فیزیکی تغییر ایجاد کنند؛ همین موضوع ریسک‌هایی مثل سوءاستفاده از ابزار، سوءاستفاده از دسترسی و ربودن رفتار را به وجود می‌آورد. پیش از دادن دسترسی عملیاتی به ایجنت، مجوزهای هر ابزار را بازبینی کنید و دامنه کاری آن را محدود نگه دارید.",
     "difficulty": "intermediate",
     "source_url": "https://www.unite.ai/what-is-agentic-ai-security-tool-misuse-privilege-abuse-and-behavior-hijacking/"
+  },
+  {
+    "id": "719f70f4-5e47-481f-8dbd-1c2c443e3aea",
+    "date": "2026-10-27",
+    "posted_at": "2026-10-27T20:42:07.790977+00:00",
+    "telegram_message_id": 70,
+    "title_en": "Budget for evaluation, not just infrastructure",
+    "body_en": "As the agentic AI market nears $139 billion and systems shift from answering to acting, the guidance is to prioritize robust evaluation. Treat eval suites and monitoring as part of the build, not something you add after agents start taking real actions.",
+    "title_fa": "برای ارزیابی هم بودجه بگذارید، نه فقط برای زیرساخت",
+    "body_fa": "وقتی بازار هوش مصنوعی ایجنت‌محور به ۱۳۹ میلیارد دلار نزدیک می‌شود و سیستم‌ها از پاسخ‌دادن به عمل‌کردن می‌رسند، توصیه این است که ارزیابی قوی را در اولویت بگذارید. مجموعه‌های ارزیابی و پایش را بخشی از فرایند ساخت بدانید، نه چیزی که بعد از سپردن اقدام‌های واقعی به ایجنت اضافه می‌کنید.",
+    "difficulty": "advanced",
+    "source_url": "https://tech.yahoo.com/ai/articles/infrastructure-demands-rise-agentic-ai-170555213.html"
   }
 ]
