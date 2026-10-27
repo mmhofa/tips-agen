@@ -514,5 +514,17 @@
     "body_fa": "ممکن است عامل پاسخی چشمگیر بدهد اما در تصمیم درباره قدم بعدی اشتباه کند. کیفیت خروجی را از اختیار عمل جدا کنید: پیش از هر اقدام پرپیامد، تأیید انسانی یا محدودیت سخت بگذارید.",
     "difficulty": "advanced",
     "source_url": "https://www.analyticsinsight.net/artificial-intelligence/anshul-sawant-says-ais-biggest-risk-may-be-mistaking-capability-for-autonomy"
+  },
+  {
+    "id": "2dbbaf2c-de71-4548-afce-73d9afec8e47",
+    "date": "2026-10-27",
+    "posted_at": "2026-10-27T01:29:12.226960+00:00",
+    "telegram_message_id": 68,
+    "title_en": "Retire dormant AI agents and revoke their access",
+    "body_en": "Keep an inventory of every AI agent, including inactive ones. Dormant agents often retain credentials and system access, so revoke those permissions and formally decommission agents you no longer use.",
+    "title_fa": "ایجنت‌های خاموش را بازنشسته و دسترسی‌شان را قطع کنید",
+    "body_fa": "فهرستی از همهٔ ایجنت‌های هوش مصنوعی، از جمله ایجنت‌های غیرفعال، نگه دارید. ایجنت‌های خاموش معمولاً اعتبارنامه و دسترسی سیستمی خود را حفظ می‌کنند؛ بنابراین این دسترسی‌ها را باطل کنید و ایجنت‌هایی را که دیگر استفاده نمی‌شوند رسماً بازنشسته کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.helpnetsecurity.com/2026/10/26/arrakis-dormant-ai-agent-risks-report/"
   }
 ]
