@@ -562,5 +562,17 @@
     "body_fa": "به ایجنت‌ها دسترسی آزاد به سیستم‌های عملیاتی ندهید؛ آن‌ها را در یک سندباکس با مجوزهای مشخص اجرا کنید. نمونه‌ی این رویکرد OpenShell از Red Hat است که در KubeCon NA 2026 برای کنترل ایجنت‌های OpenClaw معرفی شد. با کمترین سطح دسترسی شروع کنید و فقط پس از آزمون‌های موفق، اختیارات را گسترش دهید.",
     "difficulty": "advanced",
     "source_url": "https://siliconangle.com/2026/10/27/red-hat-openclaw-agents-kubeconna/"
+  },
+  {
+    "id": "ddf442a8-b808-47e3-a495-c5f83bcc2ef9",
+    "date": "2026-10-28",
+    "posted_at": "2026-10-28T10:34:24.890827+00:00",
+    "telegram_message_id": 72,
+    "title_en": "Evaluate agents before you scale them",
+    "body_en": "Treat evaluation as part of agent governance, not an afterthought. Build task-level test sets with clear success criteria, rerun them whenever you change a prompt, model, or tool, and use the results as release gates. Governance tooling alone struggles to keep agents from going off the rails.",
+    "title_fa": "پیش از گسترش، عامل را ارزیابی کنید",
+    "body_fa": "ارزیابی را جدا از حاکمیت عامل نبینید؛ بخشی از آن است. برای هر وظیفه مجموعه‌ای از آزمون‌ها با معیار موفقیت روشن بسازید و هر بار که پرامپت، مدل یا ابزار را تغییر می‌دهید دوباره اجرا کنید و نتیجه را شرط انتشار نسخه بگذارید. اتکا به ابزارهای حاکمیتی به‌تنهایی جلوی انحراف عامل‌ها را نمی‌گیرد.",
+    "difficulty": "intermediate",
+    "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
   }
 ]
