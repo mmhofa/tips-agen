@@ -550,5 +550,17 @@
     "body_fa": "وقتی بازار هوش مصنوعی ایجنت‌محور به ۱۳۹ میلیارد دلار نزدیک می‌شود و سیستم‌ها از پاسخ‌دادن به عمل‌کردن می‌رسند، توصیه این است که ارزیابی قوی را در اولویت بگذارید. مجموعه‌های ارزیابی و پایش را بخشی از فرایند ساخت بدانید، نه چیزی که بعد از سپردن اقدام‌های واقعی به ایجنت اضافه می‌کنید.",
     "difficulty": "advanced",
     "source_url": "https://tech.yahoo.com/ai/articles/infrastructure-demands-rise-agentic-ai-170555213.html"
+  },
+  {
+    "id": "0ebb634a-6420-4bc0-ac10-788ba0e860f5",
+    "date": "2026-10-28",
+    "posted_at": "2026-10-28T01:20:37.124137+00:00",
+    "telegram_message_id": 71,
+    "title_en": "Run agents inside a governed sandbox",
+    "body_en": "Give agents a sandbox with explicit permissions instead of broad access to production systems. Red Hat's OpenShell, demonstrated at KubeCon NA 2026, is an example of using sandboxing to govern OpenClaw agents. Start with least privilege and expand only after testing.",
+    "title_fa": "ایجنت‌ها را در محیط ایزوله و کنترل‌شده اجرا کنید",
+    "body_fa": "به ایجنت‌ها دسترسی آزاد به سیستم‌های عملیاتی ندهید؛ آن‌ها را در یک سندباکس با مجوزهای مشخص اجرا کنید. نمونه‌ی این رویکرد OpenShell از Red Hat است که در KubeCon NA 2026 برای کنترل ایجنت‌های OpenClaw معرفی شد. با کمترین سطح دسترسی شروع کنید و فقط پس از آزمون‌های موفق، اختیارات را گسترش دهید.",
+    "difficulty": "advanced",
+    "source_url": "https://siliconangle.com/2026/10/27/red-hat-openclaw-agents-kubeconna/"
   }
 ]
