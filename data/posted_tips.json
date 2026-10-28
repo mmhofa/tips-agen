@@ -574,5 +574,17 @@
     "body_fa": "ارزیابی را جدا از حاکمیت عامل نبینید؛ بخشی از آن است. برای هر وظیفه مجموعه‌ای از آزمون‌ها با معیار موفقیت روشن بسازید و هر بار که پرامپت، مدل یا ابزار را تغییر می‌دهید دوباره اجرا کنید و نتیجه را شرط انتشار نسخه بگذارید. اتکا به ابزارهای حاکمیتی به‌تنهایی جلوی انحراف عامل‌ها را نمی‌گیرد.",
     "difficulty": "intermediate",
     "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
+  },
+  {
+    "id": "61a261af-4bd7-405f-bf08-53e719e28842",
+    "date": "2026-10-28",
+    "posted_at": "2026-10-28T21:03:41.446241+00:00",
+    "telegram_message_id": 73,
+    "title_en": "Keep coding agents on track with specs and tests",
+    "body_en": "Coding agents tend to wander without guardrails. Give them an explicit specification, a short design document, and strict tests; use those artifacts to check each change instead of letting the agent improvise.",
+    "title_fa": "agentهای کدنویس را با مشخصات و تست کنترل کنید",
+    "body_fa": "عامل‌های کدنویس بدون چارچوب معمولاً از مسیر خارج می‌شوند. یک مشخصات دقیق، یک سند طراحی کوتاه و تست‌های سخت‌گیرانه در اختیارشان بگذارید و هر تغییر را بر اساس همان مستندات بسنجید؛ نگذارید agent خودش تصمیم بگیرد که چه چیزی درست است.",
+    "difficulty": "advanced",
+    "source_url": "https://www.cio.com/article/4187955/what-20-years-of-aws-taught-me-about-agentic-ai.html"
   }
 ]
