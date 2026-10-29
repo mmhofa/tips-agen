@@ -610,5 +610,17 @@
     "body_fa": "فقط محدودیت‌های محافظ کافی نیست و عامل‌های خودمختار می‌توانند از مسیر خارج شوند. مجموعه‌ای از ارزیابی‌های تکرارپذیر برای رفتار عامل بسازید و پیش از گسترش اختیاراتش، نتیجه همین ارزیابی‌ها را ملاک تصمیم بگیرید.",
     "difficulty": "advanced",
     "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
+  },
+  {
+    "id": "f39f341f-962d-49a9-8aa0-ac112121f97a",
+    "date": "2026-10-29",
+    "posted_at": "2026-10-29T21:07:27.385942+00:00",
+    "telegram_message_id": 76,
+    "title_en": "Start with one strong agent, not a swarm",
+    "body_en": "Before building a multi-agent pipeline, try a single, well-designed agent. Anthropic's Applied AI team found that one strong agent can beat multi-agent setups on cost, speed, and quality—simpler systems are also easier to debug and govern.",
+    "title_fa": "به جای ازدحام ایجنت‌ها، با یک ایجنت قوی شروع کنید",
+    "body_fa": "پیش از ساختن یک خط لوله چندایجنت‌ی، یک ایجنت واحد و خوب طراحی‌شده را امتحان کنید. تیم Applied AI شرکت Anthropic دیده است که یک ایجنت قوی می‌تواند از نظر هزینه، سرعت و کیفیت از چیدمان‌های چندایجنت‌ی بهتر عمل کند؛ سیستم ساده‌تر هم اشکال‌زدایی و حاکمیتش راحت‌تر است.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.msn.com/en-us/news/other/single-agent-beats-multi-agent-teams-on-cost-speed-and-quality-anthropic/ar-AA2g4Kdy?ocid=BingNewsVerp"
   }
 ]
