@@ -598,5 +598,17 @@
     "body_fa": "پیش از اتصال ایجنت به APIها یا سیستم‌های داخلی، دامنه دسترسی را محدود کنید، از اعتبارنامه اختصاصی استفاده کنید و پس از پایان کار دسترسی را ببندید. ایجنت‌های بدون نظارت می‌توانند ناخواسته آسیب‌پذیری‌ها و APIها را فعال کنند؛ بنابراین کنترل سخت‌گیرانه دسترسی یک انتخاب نیست، یک ضرورت است.",
     "difficulty": "beginner",
     "source_url": "https://www.spiceworks.com/security/the-security-risks-smes-face-from-unchecked-ai-agents/"
+  },
+  {
+    "id": "ddd5d668-b5cc-4ca8-8b06-cb7e341deec5",
+    "date": "2026-10-29",
+    "posted_at": "2026-10-29T10:53:39.358183+00:00",
+    "telegram_message_id": 75,
+    "title_en": "Treat evals as part of agent governance",
+    "body_en": "Guardrails alone will not keep autonomous agents on track. Add repeatable evaluations that test agent behavior, and use the results as a gate before expanding what the agent is allowed to do.",
+    "title_fa": "ارزیابی را بخشی از حاکمیت عامل بدانید",
+    "body_fa": "فقط محدودیت‌های محافظ کافی نیست و عامل‌های خودمختار می‌توانند از مسیر خارج شوند. مجموعه‌ای از ارزیابی‌های تکرارپذیر برای رفتار عامل بسازید و پیش از گسترش اختیاراتش، نتیجه همین ارزیابی‌ها را ملاک تصمیم بگیرید.",
+    "difficulty": "advanced",
+    "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
   }
 ]
