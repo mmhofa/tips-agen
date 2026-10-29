@@ -586,5 +586,17 @@
     "body_fa": "عامل‌های کدنویس بدون چارچوب معمولاً از مسیر خارج می‌شوند. یک مشخصات دقیق، یک سند طراحی کوتاه و تست‌های سخت‌گیرانه در اختیارشان بگذارید و هر تغییر را بر اساس همان مستندات بسنجید؛ نگذارید agent خودش تصمیم بگیرد که چه چیزی درست است.",
     "difficulty": "advanced",
     "source_url": "https://www.cio.com/article/4187955/what-20-years-of-aws-taught-me-about-agentic-ai.html"
+  },
+  {
+    "id": "78db88b1-aa64-447d-8ed0-bf0323e91b2b",
+    "date": "2026-10-29",
+    "posted_at": "2026-10-29T01:47:47.442640+00:00",
+    "telegram_message_id": 74,
+    "title_en": "Give agents the minimum access they need",
+    "body_en": "Before connecting an agent to APIs or internal systems, define a narrow scope, use dedicated credentials, and revoke access when the task is done. Unchecked agents can unintentionally exploit vulnerabilities and APIs, so strict access control is not optional.",
+    "title_fa": "کمترین دسترسی لازم را به ایجنت بدهید",
+    "body_fa": "پیش از اتصال ایجنت به APIها یا سیستم‌های داخلی، دامنه دسترسی را محدود کنید، از اعتبارنامه اختصاصی استفاده کنید و پس از پایان کار دسترسی را ببندید. ایجنت‌های بدون نظارت می‌توانند ناخواسته آسیب‌پذیری‌ها و APIها را فعال کنند؛ بنابراین کنترل سخت‌گیرانه دسترسی یک انتخاب نیست، یک ضرورت است.",
+    "difficulty": "beginner",
+    "source_url": "https://www.spiceworks.com/security/the-security-risks-smes-face-from-unchecked-ai-agents/"
   }
 ]
