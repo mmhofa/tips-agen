@@ -622,5 +622,17 @@
     "body_fa": "پیش از ساختن یک خط لوله چندایجنت‌ی، یک ایجنت واحد و خوب طراحی‌شده را امتحان کنید. تیم Applied AI شرکت Anthropic دیده است که یک ایجنت قوی می‌تواند از نظر هزینه، سرعت و کیفیت از چیدمان‌های چندایجنت‌ی بهتر عمل کند؛ سیستم ساده‌تر هم اشکال‌زدایی و حاکمیتش راحت‌تر است.",
     "difficulty": "intermediate",
     "source_url": "https://www.msn.com/en-us/news/other/single-agent-beats-multi-agent-teams-on-cost-speed-and-quality-anthropic/ar-AA2g4Kdy?ocid=BingNewsVerp"
+  },
+  {
+    "id": "5fee25fc-6094-4ede-bde6-fcda15729dfc",
+    "date": "2026-10-30",
+    "posted_at": "2026-10-30T01:57:51.943174+00:00",
+    "telegram_message_id": 77,
+    "title_en": "Treat verification as the bottleneck",
+    "body_en": "AI has made code production radically cheaper; verification is now the constraint. Invest in tests, reviews, and checks that validate agent-generated code before it ships.",
+    "title_fa": "اعتبارسنجی را گلوگاه اصلی بدانید",
+    "body_fa": "هوش مصنوعی تولید کد را به‌شدت ارزان‌تر کرده و حالا اعتبارسنجی به گلوگاه اصلی تبدیل شده است. روی تست‌ها، بازبینی‌ها و بررسی‌هایی سرمایه‌گذاری کنید که کد تولیدشده توسط عامل را پیش از انتشار تأیید کنند.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/26/code-verification-in-the-agentic-era/"
   }
 ]
