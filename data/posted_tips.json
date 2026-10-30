@@ -646,5 +646,17 @@
     "body_fa": "پیش از رفتن سراغ ابزارهای پیشرفته امنیت AI، اصول پایه را درست اجرا کنید: هویت، مدیریت دسترسی و حداقل دسترسی برای هر ایجنت و هر حسابی که به آن وصل می‌شود.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/cybersecurity/articles/security-leaders-ai-era-must-113100761.html"
+  },
+  {
+    "id": "0ea9ff7a-c8c8-4ac4-9ba5-85c709c6ffb6",
+    "date": "2026-10-30",
+    "posted_at": "2026-10-30T20:48:00.670185+00:00",
+    "telegram_message_id": 79,
+    "title_en": "Check governance readiness before scaling agents",
+    "body_en": "OutSystems research finds a gap between enterprise confidence in AI agent governance and actual readiness. Before expanding agent use, document who owns each agent, what it can access, and how its actions are reviewed.",
+    "title_fa": "پیش از گسترش عامل‌های هوش مصنوعی، آمادگی حاکمیتی را بسنجید",
+    "body_fa": "پژوهش OutSystems نشان می‌دهد اعتماد سازمان‌ها به حاکمیت عامل‌های هوش مصنوعی بیشتر از آمادگی واقعی‌شان است. قبل از افزایش تعداد عامل‌ها مشخص کنید مالک هر عامل کیست، به چه داده‌ها و ابزارهایی دسترسی دارد و اقداماتش چگونه بازبینی می‌شود.",
+    "difficulty": "intermediate",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-era-enterprise-readiness-130000218.html"
   }
 ]
