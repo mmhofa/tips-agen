@@ -634,5 +634,17 @@
     "body_fa": "هوش مصنوعی تولید کد را به‌شدت ارزان‌تر کرده و حالا اعتبارسنجی به گلوگاه اصلی تبدیل شده است. روی تست‌ها، بازبینی‌ها و بررسی‌هایی سرمایه‌گذاری کنید که کد تولیدشده توسط عامل را پیش از انتشار تأیید کنند.",
     "difficulty": "intermediate",
     "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/26/code-verification-in-the-agentic-era/"
+  },
+  {
+    "id": "20a7848c-1af3-4765-b1a0-02171daaf3f2",
+    "date": "2026-10-30",
+    "posted_at": "2026-10-30T10:51:46.823824+00:00",
+    "telegram_message_id": 78,
+    "title_en": "Start agent security with identity basics",
+    "body_en": "Before chasing advanced AI security tooling, get the fundamentals right: identity, access management, and least privilege for every agent and every account it can reach.",
+    "title_fa": "امنیت ایجنت را از اصول هویت شروع کنید",
+    "body_fa": "پیش از رفتن سراغ ابزارهای پیشرفته امنیت AI، اصول پایه را درست اجرا کنید: هویت، مدیریت دسترسی و حداقل دسترسی برای هر ایجنت و هر حسابی که به آن وصل می‌شود.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/cybersecurity/articles/security-leaders-ai-era-must-113100761.html"
   }
 ]
