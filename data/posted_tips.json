@@ -658,5 +658,17 @@
     "body_fa": "پژوهش OutSystems نشان می‌دهد اعتماد سازمان‌ها به حاکمیت عامل‌های هوش مصنوعی بیشتر از آمادگی واقعی‌شان است. قبل از افزایش تعداد عامل‌ها مشخص کنید مالک هر عامل کیست، به چه داده‌ها و ابزارهایی دسترسی دارد و اقداماتش چگونه بازبینی می‌شود.",
     "difficulty": "intermediate",
     "source_url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-era-enterprise-readiness-130000218.html"
+  },
+  {
+    "id": "fbae0951-b838-419f-9343-b9df445747af",
+    "date": "2026-10-31",
+    "posted_at": "2026-10-31T01:35:58.216678+00:00",
+    "telegram_message_id": 80,
+    "title_en": "Recheck approved software for hidden agentic features",
+    "body_en": "Agentic capabilities can arrive quietly through updates to software you already approved. Add a simple question to every vendor and renewal review: does this product now take autonomous actions, and under what limits? Update your governance process before those features reach production.",
+    "title_fa": "نرم‌افزارهای تأییدشده را برای قابلیت‌های عاملی پنهان دوباره بررسی کنید",
+    "body_fa": "ممکن است قابلیت‌های عاملی بی‌سروصدا از طریق به‌روزرسانی همان نرم‌افزارهایی وارد شوند که قبلاً تأیید کرده‌اید. در هر بازبینی فروشنده و تمدید قرارداد یک پرسش ساده اضافه کنید: آیا این محصول اکنون اقدام خودکار انجام می‌دهد و این اقدام‌ها چه محدودیتی دارند؟ پیش از رسیدن این قابلیت‌ها به محیط عملیاتی، فرایند حاکمیتی خود را به‌روز کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.forbes.com/sites/heatherwishartsmith/2026/10/12/agentic-ai-governance-when-approved-software-turns-agentic/"
   }
 ]
