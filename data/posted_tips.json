@@ -682,5 +682,17 @@
     "body_fa": "عامل‌های هوش مصنوعی معمولاً از کار نمی‌افتند؛ بی‌صدا اشتباه می‌کنند و راه را ادامه می‌دهند. هر فراخوانی ابزار، خروجی میانی و تصمیم را ثبت کنید و در کنارش ارزیابی خودکار و هشدار روی نرخ موفقیت وظایف بگذارید تا انحراف رفتار پیش از آنکه کاربر متوجه شود، دیده شود.",
     "difficulty": "intermediate",
     "source_url": "https://www.unite.ai/ai-agent-failures-observability-reliability-testing/"
+  },
+  {
+    "id": "5dfd89fd-cadd-4b80-91d7-c8d437b98c8d",
+    "date": "2026-10-31",
+    "posted_at": "2026-10-31T19:58:43.750546+00:00",
+    "telegram_message_id": 82,
+    "title_en": "Start with the simplest agent design that works",
+    "body_en": "Before building an autonomous multi-agent system, map your use case to the lowest level of complexity it needs—a prompt, a fixed workflow, or a true agent—and add autonomy only when the simpler option cannot do the job.",
+    "title_fa": "با ساده‌ترین طراحی عامل شروع کنید",
+    "body_fa": "پیش از ساختن یک سیستم چندعاملی خودمختار، اول مشخص کنید کار شما در کدام سطح از پیچیدگی جا می‌شود: یک پرامپت ساده، یک گردش‌کار ثابت، یا یک عامل واقعی. فقط وقتی گزینه‌های ساده‌تر از پس کار برنمی‌آیند سراغ خودمختاری بیشتر بروید؛ این کار از دردسرهای مهندسی بعدی کم می‌کند.",
+    "difficulty": "beginner",
+    "source_url": "https://www.devprojournal.com/technology-trends/ai/agentic-ai/the-hidden-engineering-nightmare-nobody-warns-you-about-when-building-ai-agents/"
   }
 ]
