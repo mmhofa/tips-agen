@@ -670,5 +670,17 @@
     "body_fa": "ممکن است قابلیت‌های عاملی بی‌سروصدا از طریق به‌روزرسانی همان نرم‌افزارهایی وارد شوند که قبلاً تأیید کرده‌اید. در هر بازبینی فروشنده و تمدید قرارداد یک پرسش ساده اضافه کنید: آیا این محصول اکنون اقدام خودکار انجام می‌دهد و این اقدام‌ها چه محدودیتی دارند؟ پیش از رسیدن این قابلیت‌ها به محیط عملیاتی، فرایند حاکمیتی خود را به‌روز کنید.",
     "difficulty": "intermediate",
     "source_url": "https://www.forbes.com/sites/heatherwishartsmith/2026/10/12/agentic-ai-governance-when-approved-software-turns-agentic/"
+  },
+  {
+    "id": "8ff92330-59f0-4eb3-b991-27825a040d34",
+    "date": "2026-10-31",
+    "posted_at": "2026-10-31T10:22:58.093331+00:00",
+    "telegram_message_id": 81,
+    "title_en": "Instrument agents for silent failures, not just crashes",
+    "body_en": "Agents rarely crash — they fail quietly by taking a wrong step and continuing. Log every tool call, intermediate output and decision, then add automated evaluations and alerts on task success rate so drift shows up before users notice.",
+    "title_fa": "عامل‌های هوش مصنوعی را برای خطاهای خاموش پایش کنید، نه فقط کرش",
+    "body_fa": "عامل‌های هوش مصنوعی معمولاً از کار نمی‌افتند؛ بی‌صدا اشتباه می‌کنند و راه را ادامه می‌دهند. هر فراخوانی ابزار، خروجی میانی و تصمیم را ثبت کنید و در کنارش ارزیابی خودکار و هشدار روی نرخ موفقیت وظایف بگذارید تا انحراف رفتار پیش از آنکه کاربر متوجه شود، دیده شود.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.unite.ai/ai-agent-failures-observability-reliability-testing/"
   }
 ]
