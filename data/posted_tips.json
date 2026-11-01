@@ -706,5 +706,17 @@
     "body_fa": "اگر تازه وارد ساخت عامل‌های هوشمند شده‌اید، یک دوره رایگان یک‌ساعته می‌تواند سریع اصطلاحات پایه را به شما بیاموزد: معماری، مهارت‌ها و هماهنگ‌سازی چند عامل. پیش از شروع آزمایش با فرایندهای عامل‌محور خودتان، این دوره را مثل یک نقشه راه در نظر بگیرید.",
     "difficulty": "beginner",
     "source_url": "https://cryptobriefing.com/anthropic-free-ai-agents-course-opus/"
+  },
+  {
+    "id": "8f917f54-2725-4deb-97fa-e1810ce29c12",
+    "date": "2026-11-01",
+    "posted_at": "2026-11-01T11:15:53.566767+00:00",
+    "telegram_message_id": 84,
+    "title_en": "Scale agentic coding only after guardrails are in place",
+    "body_en": "Rolling agentic coding assistants out to hundreds of engineers in a regulated company works when governance comes first: clear guardrails, a curated set of approved skills, and a whitelist of approved integrations. Build those controls before you widen access, not after.",
+    "title_fa": "توسعه دستیارهای کدنویسی عاملی را بعد از مهارها شروع کنید",
+    "body_fa": "در سازمان‌های مقررات‌محور، وقتی می‌خواهید دستیارهای کدنویسی عاملی را در اختیار صدها مهندس بگذارید، اول باید چارچوب حکمرانی را بسازید: مهارهای روشن، مجموعه‌ای گزینش‌شده از مهارت‌های تأییدشده و فهرستی از یکپارچه‌سازی‌های مجاز. این کنترل‌ها را پیش از گسترش دسترسی بسازید، نه بعد از آن.",
+    "difficulty": "advanced",
+    "source_url": "https://hackernoon.com/scaling-agentic-ai-coding-assistants-in-a-regulated-enterprise"
   }
 ]
