@@ -718,5 +718,17 @@
     "body_fa": "در سازمان‌های مقررات‌محور، وقتی می‌خواهید دستیارهای کدنویسی عاملی را در اختیار صدها مهندس بگذارید، اول باید چارچوب حکمرانی را بسازید: مهارهای روشن، مجموعه‌ای گزینش‌شده از مهارت‌های تأییدشده و فهرستی از یکپارچه‌سازی‌های مجاز. این کنترل‌ها را پیش از گسترش دسترسی بسازید، نه بعد از آن.",
     "difficulty": "advanced",
     "source_url": "https://hackernoon.com/scaling-agentic-ai-coding-assistants-in-a-regulated-enterprise"
+  },
+  {
+    "id": "7487ec47-c077-40bc-8bd2-1697080d8154",
+    "date": "2026-11-01",
+    "posted_at": "2026-11-01T21:11:38.863890+00:00",
+    "telegram_message_id": 85,
+    "title_en": "Put a Data-Quality Gate Before Your Agent",
+    "body_en": "Agents act on whatever context they receive, without the human sanity check that catches ambiguity. Before an agent consumes records or matches, add validation for ambiguous or duplicate data and require human review for edge cases.",
+    "title_fa": "پیش از سپردن داده به ایجنت، دروازهٔ کیفیت داده بسازید",
+    "body_fa": "ایجنت‌ها همان داده‌ای را مبنا قرار می‌دهند که در اختیارشان می‌گذارید؛ سنجش انسانی که ابهام را بگیرد در کار نیست. بنابراین پیش از مصرف داده توسط ایجنت، برای رکوردهای مبهم یا تکراری اعتبارسنجی بگذارید و موارد حساس را به بازبینی انسانی بسپارید.",
+    "difficulty": "beginner",
+    "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/30/first-match-wins-is-paid-guesswork-heres-what-real-data-quality-actually-requires/"
   }
 ]
