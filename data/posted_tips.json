@@ -754,5 +754,17 @@
     "body_fa": "هزینه ایجنت‌ها با معماری ضعیف و بی‌نظمی عملیاتی سریع بالا می‌رود. انتخاب مدل، فراخوانی ابزارها و الگوی ارکستراسیون را از همان ابتدا بخشی از طراحی بدانید، نه چیزی که بعداً به آن فکر می‌کنید؛ وگرنه مقیاس‌دهی به ایجنت‌ها بودجه را می‌بلعد.",
     "difficulty": "intermediate",
     "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
+  },
+  {
+    "id": "f85df1b6-2632-429f-8275-b2625d0de75f",
+    "date": "2026-11-02",
+    "posted_at": "2026-11-02T23:53:05.189151+00:00",
+    "telegram_message_id": 88,
+    "title_en": "Budget for Agent Architecture, Not Just Tokens",
+    "body_en": "Agent costs can climb faster than plain generative AI because weak architecture and limited operational controls multiply model calls. Treat design choices — loops, retries, tool calls — as cost decisions, not only engineering ones.",
+    "title_fa": "هزینه را برای معماری ایجنت هم در نظر بگیرید، نه فقط توکن",
+    "body_fa": "هزینه ایجنت‌ها می‌تواند سریع‌تر از هوش مصنوعی مولد معمولی بالا برود، چون معماری ضعیف و کنترل‌های عملیاتی محدود تعداد فراخوانی‌های مدل را چند برابر می‌کند. انتخاب‌های طراحی مثل حلقه‌ها، تلاش‌های مجدد و فراخوانی ابزارها را به‌عنوان تصمیم هزینه‌ای ببینید، نه صرفاً تصمیم مهندسی.",
+    "difficulty": "intermediate",
+    "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
   }
 ]
