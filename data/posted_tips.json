@@ -742,5 +742,17 @@
     "body_fa": "پیش از اینکه کار را بین چند ایجنت تقسیم کنید، یک ایجنت خوب طراحی‌شده را بهینه کنید. تیم Applied AI آنتروپیک دیده است که یک ایجنت واحد می‌تواند از چیدمان چندایجنی در هزینه، سرعت و کیفیت بهتر عمل کند؛ پس تنها وقتی سراغ چندایجنی بروید که نیاز واقعی باقی مانده باشد.",
     "difficulty": "intermediate",
     "source_url": "https://www.msn.com/en-us/news/other/single-agent-beats-multi-agent-teams-on-cost-speed-and-quality-anthropic/ar-AA2g4Kdy?ocid=BingNewsVerp"
+  },
+  {
+    "id": "1160a181-e0ea-46d5-b3e3-39608d90d3b0",
+    "date": "2026-11-02",
+    "posted_at": "2026-11-02T13:29:17.257471+00:00",
+    "telegram_message_id": 87,
+    "title_en": "Design Agent Architecture With Cost in Mind",
+    "body_en": "Agent costs grow quickly through poor architecture and weak operational discipline. Review model choice, tool calls, and orchestration patterns as design decisions—not afterthoughts—so scaling agents doesn't blow up the budget.",
+    "title_fa": "معماری ایجنت را با نگاه به هزینه طراحی کنید",
+    "body_fa": "هزینه ایجنت‌ها با معماری ضعیف و بی‌نظمی عملیاتی سریع بالا می‌رود. انتخاب مدل، فراخوانی ابزارها و الگوی ارکستراسیون را از همان ابتدا بخشی از طراحی بدانید، نه چیزی که بعداً به آن فکر می‌کنید؛ وگرنه مقیاس‌دهی به ایجنت‌ها بودجه را می‌بلعد.",
+    "difficulty": "intermediate",
+    "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
   }
 ]
