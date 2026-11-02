@@ -730,5 +730,17 @@
     "body_fa": "ایجنت‌ها همان داده‌ای را مبنا قرار می‌دهند که در اختیارشان می‌گذارید؛ سنجش انسانی که ابهام را بگیرد در کار نیست. بنابراین پیش از مصرف داده توسط ایجنت، برای رکوردهای مبهم یا تکراری اعتبارسنجی بگذارید و موارد حساس را به بازبینی انسانی بسپارید.",
     "difficulty": "beginner",
     "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/30/first-match-wins-is-paid-guesswork-heres-what-real-data-quality-actually-requires/"
+  },
+  {
+    "id": "2096971a-7710-45f2-ba43-a228a282cfe3",
+    "date": "2026-11-02",
+    "posted_at": "2026-11-02T02:29:46.874681+00:00",
+    "telegram_message_id": 86,
+    "title_en": "Prove a single agent first",
+    "body_en": "Before splitting work across a multi-agent pipeline, tune one well-designed agent. Anthropic's Applied AI team found a single agent can beat multi-agent setups on cost, speed, and quality—so use multi-agent only when a clear need remains.",
+    "title_fa": "اول یک ایجنت تنها را به نتیجه برسانید",
+    "body_fa": "پیش از اینکه کار را بین چند ایجنت تقسیم کنید، یک ایجنت خوب طراحی‌شده را بهینه کنید. تیم Applied AI آنتروپیک دیده است که یک ایجنت واحد می‌تواند از چیدمان چندایجنی در هزینه، سرعت و کیفیت بهتر عمل کند؛ پس تنها وقتی سراغ چندایجنی بروید که نیاز واقعی باقی مانده باشد.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.msn.com/en-us/news/other/single-agent-beats-multi-agent-teams-on-cost-speed-and-quality-anthropic/ar-AA2g4Kdy?ocid=BingNewsVerp"
   }
 ]
