@@ -766,5 +766,17 @@
     "body_fa": "هزینه ایجنت‌ها می‌تواند سریع‌تر از هوش مصنوعی مولد معمولی بالا برود، چون معماری ضعیف و کنترل‌های عملیاتی محدود تعداد فراخوانی‌های مدل را چند برابر می‌کند. انتخاب‌های طراحی مثل حلقه‌ها، تلاش‌های مجدد و فراخوانی ابزارها را به‌عنوان تصمیم هزینه‌ای ببینید، نه صرفاً تصمیم مهندسی.",
     "difficulty": "intermediate",
     "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
+  },
+  {
+    "id": "e4d52fc3-3299-47ae-9ced-5bc534c8ee6d",
+    "date": "2026-11-03",
+    "posted_at": "2026-11-03T12:47:40.210934+00:00",
+    "telegram_message_id": 89,
+    "title_en": "Give every agent a human owner",
+    "body_en": "Treat an AI agent like a new teammate: assign a named human owner who reviews its work, sets boundaries, and is accountable when it goes wrong. Tool access alone is not supervision.",
+    "title_fa": "برای هر عامل یک مسئول انسانی تعیین کنید",
+    "body_fa": "عامل هوش مصنوعی را مثل یک همکار تازه‌وارد ببینید: یک فرد مشخص باید مسئول بررسی خروجی‌ها، تعیین محدوده کار و پاسخگویی در صورت خطا باشد. دادن دسترسی به ابزارها به‌تنهایی یعنی نظارت، نه.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/ai-agent-teammate-still-needs-133611771.html"
   }
 ]
