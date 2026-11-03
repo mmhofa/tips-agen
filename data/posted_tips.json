@@ -778,5 +778,17 @@
     "body_fa": "عامل هوش مصنوعی را مثل یک همکار تازه‌وارد ببینید: یک فرد مشخص باید مسئول بررسی خروجی‌ها، تعیین محدوده کار و پاسخگویی در صورت خطا باشد. دادن دسترسی به ابزارها به‌تنهایی یعنی نظارت، نه.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/ai-agent-teammate-still-needs-133611771.html"
+  },
+  {
+    "id": "a3941d40-5937-4542-a7a2-60ba06743af3",
+    "date": "2026-11-03",
+    "posted_at": "2026-11-03T22:18:47.742658+00:00",
+    "telegram_message_id": 90,
+    "title_en": "Make Evals Part of Agent Governance",
+    "body_en": "Don't treat evaluation as a one-time test. Build a repeatable eval suite that checks agent behavior against your policies, and use it as a governance gate before and after deployment.",
+    "title_fa": "ارزیابی را بخشی از حاکمیت عامل‌ها کنید",
+    "body_fa": "ارزیابی را یک تست یکباره نبینید. مجموعه‌ای تکرارپذیر از ارزیابی‌ها بسازید که رفتار عامل را با سیاست‌های سازمان بسنجد و آن را به‌عنوان دروازهٔ حاکمیتی، هم پیش و هم پس از استقرار، به کار ببرید.",
+    "difficulty": "advanced",
+    "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
   }
 ]
