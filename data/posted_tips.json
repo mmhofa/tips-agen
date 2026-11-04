@@ -802,5 +802,17 @@
     "body_fa": "یک توسعه‌دهنده با دادن دستور ساده و سطح‌بالا به Claude Opus 5 («کاملاً بی‌نقص باش») و سپردن بقیه کار به مدل، ظاهراً به نتیجه خوبی در طراحی بازی رسیده است. قبل از ساختن زنجیره‌های پیچیده پرامپت، پرامپت‌های کوتاه و کیفیت‌محور را امتحان کنید.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/claude/articles/dumbest-looking-ai-prompt-just-180400248.html"
+  },
+  {
+    "id": "1d9724cb-8f4a-4af4-b5a3-e585bdac1ec8",
+    "date": "2026-11-04",
+    "posted_at": "2026-11-04T12:59:12.762190+00:00",
+    "telegram_message_id": 92,
+    "title_en": "Put a human stop point in every high-impact workflow",
+    "body_en": "Agentic AI needs human judgment built into workflows before automated actions go too far. For high-impact actions, add a review or approval step and make clear who has the authority to stop the agent.",
+    "title_fa": "برای هر گردشکار پرریسک یک نقطه توقف انسانی بگذارید",
+    "body_fa": "ایجنتها باید پیش از آنکه اقدامهای خودکار از کنترل خارج شوند، قضاوت انسانی را در جریان کار بگنجانند. برای کارهای حساس، یک مرحله بازبینی یا تأیید انسانی تعریف کنید و مشخص کنید چه کسی اختیار توقف ایجنت را دارد.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
