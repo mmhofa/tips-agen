@@ -790,5 +790,17 @@
     "body_fa": "ارزیابی را یک تست یکباره نبینید. مجموعه‌ای تکرارپذیر از ارزیابی‌ها بسازید که رفتار عامل را با سیاست‌های سازمان بسنجد و آن را به‌عنوان دروازهٔ حاکمیتی، هم پیش و هم پس از استقرار، به کار ببرید.",
     "difficulty": "advanced",
     "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
+  },
+  {
+    "id": "81f75de0-1883-4cf8-a448-17100fff9851",
+    "date": "2026-11-04",
+    "posted_at": "2026-11-04T03:00:41.866774+00:00",
+    "telegram_message_id": 91,
+    "title_en": "Don't Over-Engineer Prompts",
+    "body_en": "A developer reportedly got strong game-design results by giving Claude Opus 5 a simple, high-level instruction—to be \"utterly perfect\"—and leaving the rest to the model. Test concise, quality-focused prompts before building elaborate prompt chains.",
+    "title_fa": "پرامپت را بیش از حد پیچیده نکنید",
+    "body_fa": "یک توسعه‌دهنده با دادن دستور ساده و سطح‌بالا به Claude Opus 5 («کاملاً بی‌نقص باش») و سپردن بقیه کار به مدل، ظاهراً به نتیجه خوبی در طراحی بازی رسیده است. قبل از ساختن زنجیره‌های پیچیده پرامپت، پرامپت‌های کوتاه و کیفیت‌محور را امتحان کنید.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/claude/articles/dumbest-looking-ai-prompt-just-180400248.html"
   }
 ]
