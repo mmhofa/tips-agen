@@ -814,5 +814,17 @@
     "body_fa": "ایجنتها باید پیش از آنکه اقدامهای خودکار از کنترل خارج شوند، قضاوت انسانی را در جریان کار بگنجانند. برای کارهای حساس، یک مرحله بازبینی یا تأیید انسانی تعریف کنید و مشخص کنید چه کسی اختیار توقف ایجنت را دارد.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "0953cdc0-3bbf-462d-b99d-d064320b91c9",
+    "date": "2026-11-04",
+    "posted_at": "2026-11-04T22:37:44.696185+00:00",
+    "telegram_message_id": 93,
+    "title_en": "Give Every AI Agent a Named Owner and a Kill Switch",
+    "body_en": "Before an agent gets access to production data, assign it a named owner, log everything it does, and rehearse shutting it down. Three questions should have answers before deployment, not after an incident: who approved this access, what exactly did the agent do, and can we stop it right now?",
+    "title_fa": "برای هر ایجنت یک مالک مشخص و یک کلید توقف تعیین کنید",
+    "body_fa": "پیش از آنکه ایجنتی به داده‌های عملیاتی دسترسی پیدا کند، یک مالک مشخص برایش تعیین کنید، تمام کارهایش را لاگ کنید و یک بار هم که شده تمرین کنید که چطور متوقفش می‌کنید. سه پرسش «چه کسی این دسترسی را تأیید کرد؟»، «ایجنت دقیقاً چه کاری انجام داد؟» و «همین حالا می‌توانیم متوقفش کنیم؟» باید پیش از استقرار پاسخ داشته باشند، نه بعد از وقوع حادثه.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.techrepublic.com/article/news-ai-agent-governance-access-accountability/"
   }
 ]
