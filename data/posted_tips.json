@@ -850,5 +850,17 @@
     "body_fa": "اجازه ندهید عامل هوش مصنوعی بدون یک نقطه توقف مشخص، اقدام حساس انجام دهد. در جریان کار جایی تعریف کنید که پیش از ادامهٔ کار، انسان تصمیم را بررسی و تأیید کند تا خودکارسازی پیش از عبور از حد مجاز متوقف شود.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "815b7942-ed56-48fd-850f-e164f65d2a28",
+    "date": "2026-11-05",
+    "posted_at": "2026-11-05T22:40:44.334738+00:00",
+    "telegram_message_id": 96,
+    "title_en": "Set an assurance process before scaling agents",
+    "body_en": "Before rolling agents into core workflows, define who reviews their behavior, what data they can touch, and how incidents are handled. Adoption is racing ahead of assurance: most leaders plan integration within 12–18 months, but only about a third have a process in place.",
+    "title_fa": "پیش از گسترش عامل‌ها، فرایند نظارت را تعریف کنید",
+    "body_fa": "قبل از اینکه عامل‌های هوش مصنوعی را به جریان‌های اصلی کار وارد کنید، مشخص کنید چه کسی رفتارشان را بررسی می‌کند، به چه داده‌هایی دسترسی دارند و در صورت بروز خطا چه کسی پاسخگوست. سرعت پذیرش از سامانهٔ اطمینان جلو زده است؛ بیشتر مدیران برنامهٔ یکپارچه‌سازی را در ۱۲ تا ۱۸ ماه آینده دارند، اما تنها حدود یک‌سوم سازمان‌ها فرایند مشخصی برای آن دارند.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.marketscreener.com/news/mssp-gartner-magic-quadrant-context-ai-agent-adoption-outpaces-security-assurance-as-81-of-leaders-ce785dd9d08af525"
   }
 ]
