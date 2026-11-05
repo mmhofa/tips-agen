@@ -826,5 +826,17 @@
     "body_fa": "پیش از آنکه ایجنتی به داده‌های عملیاتی دسترسی پیدا کند، یک مالک مشخص برایش تعیین کنید، تمام کارهایش را لاگ کنید و یک بار هم که شده تمرین کنید که چطور متوقفش می‌کنید. سه پرسش «چه کسی این دسترسی را تأیید کرد؟»، «ایجنت دقیقاً چه کاری انجام داد؟» و «همین حالا می‌توانیم متوقفش کنیم؟» باید پیش از استقرار پاسخ داشته باشند، نه بعد از وقوع حادثه.",
     "difficulty": "intermediate",
     "source_url": "https://www.techrepublic.com/article/news-ai-agent-governance-access-accountability/"
+  },
+  {
+    "id": "06f63489-a443-4af8-9729-6116914acef7",
+    "date": "2026-11-05",
+    "posted_at": "2026-11-05T03:29:30.171309+00:00",
+    "telegram_message_id": 94,
+    "title_en": "Give Every Agent Its Own Identity",
+    "body_en": "Treat agents as identities, not shared credentials. Use agent identity controls and least-privilege access so you can see which agent did what and revoke access when needed.",
+    "title_fa": "به هر عامل هویت مستقل بدهید",
+    "body_fa": "عامل‌ها را مثل کاربران مستقل ببینید، نه اعتبارنامه مشترک. با ابزارهای مدیریت هویت عامل و اصل کمترین دسترسی، مشخص می‌شود کدام عامل چه کاری انجام داده و در صورت نیاز می‌توانید دسترسی‌اش را قطع کنید.",
+    "difficulty": "advanced",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/oktas-agent-identity-platform-capture-131000033.html"
   }
 ]
