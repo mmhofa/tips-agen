@@ -838,5 +838,17 @@
     "body_fa": "عامل‌ها را مثل کاربران مستقل ببینید، نه اعتبارنامه مشترک. با ابزارهای مدیریت هویت عامل و اصل کمترین دسترسی، مشخص می‌شود کدام عامل چه کاری انجام داده و در صورت نیاز می‌توانید دسترسی‌اش را قطع کنید.",
     "difficulty": "advanced",
     "source_url": "https://finance.yahoo.com/technology/ai/articles/oktas-agent-identity-platform-capture-131000033.html"
+  },
+  {
+    "id": "8cd1da98-1975-489d-88d4-ba5d5e7264df",
+    "date": "2026-11-05",
+    "posted_at": "2026-11-05T13:11:47.555852+00:00",
+    "telegram_message_id": 95,
+    "title_en": "Build a human stop point into agent workflows",
+    "body_en": "Don't let agents take high-impact actions without a defined pause. Add explicit checkpoints where a person reviews and approves before the agent proceeds, so automation stops before it goes too far.",
+    "title_fa": "یک نقطه توقف انسانی در جریان کار عامل بگذارید",
+    "body_fa": "اجازه ندهید عامل هوش مصنوعی بدون یک نقطه توقف مشخص، اقدام حساس انجام دهد. در جریان کار جایی تعریف کنید که پیش از ادامهٔ کار، انسان تصمیم را بررسی و تأیید کند تا خودکارسازی پیش از عبور از حد مجاز متوقف شود.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
