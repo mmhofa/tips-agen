@@ -874,5 +874,17 @@
     "body_fa": "قضاوت انسانی را پیش از آنکه اقدام خودکار ایجنت از کنترل خارج شود در جریان کار قرار دهید. برای مراحل پرتأثیر یا بازگشت‌ناپذیر تأیید صریح بخواهید و اجازه ندهید ایجنت خودسرانه ادامه دهد.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "292287b9-2f82-4cef-9593-7f3fe82fdc42",
+    "date": "2026-11-06",
+    "posted_at": "2026-11-06T22:06:55.124350+00:00",
+    "telegram_message_id": 98,
+    "title_en": "Design failure recovery before production access",
+    "body_en": "Before giving an agent write access to production systems, add safeguards such as idempotency keys, checkpoints, and bounded retries so a failed step can resume without repeating transactions or wasting tokens.",
+    "title_fa": "بازیابی از خطا را پیش از دسترسی عملیاتی طراحی کنید",
+    "body_fa": "پیش از دادن دسترسی نوشتن به ایجنت در محیط عملیاتی، کلید یکتای تکرارنشدنی، نقطهٔ بازرسی و تلاش مجدد محدود اضافه کنید تا اجرای نیمه‌کاره بدون تکرار تراکنش یا هدر رفتن توکن از سر گرفته شود.",
+    "difficulty": "advanced",
+    "source_url": "https://securityboulevard.com/2026/11/failure-recovery-is-the-agentic-ai-problem-nobody-talks-about/"
   }
 ]
