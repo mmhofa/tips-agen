@@ -862,5 +862,17 @@
     "body_fa": "قبل از اینکه عامل‌های هوش مصنوعی را به جریان‌های اصلی کار وارد کنید، مشخص کنید چه کسی رفتارشان را بررسی می‌کند، به چه داده‌هایی دسترسی دارند و در صورت بروز خطا چه کسی پاسخگوست. سرعت پذیرش از سامانهٔ اطمینان جلو زده است؛ بیشتر مدیران برنامهٔ یکپارچه‌سازی را در ۱۲ تا ۱۸ ماه آینده دارند، اما تنها حدود یک‌سوم سازمان‌ها فرایند مشخصی برای آن دارند.",
     "difficulty": "intermediate",
     "source_url": "https://www.marketscreener.com/news/mssp-gartner-magic-quadrant-context-ai-agent-adoption-outpaces-security-assurance-as-81-of-leaders-ce785dd9d08af525"
+  },
+  {
+    "id": "ea498de8-c2b1-4b3f-9bb0-a99fb8eb5748",
+    "date": "2026-11-06",
+    "posted_at": "2026-11-06T12:56:21.236672+00:00",
+    "telegram_message_id": 97,
+    "title_en": "Put a human gate before irreversible agent actions",
+    "body_en": "Build human judgment into agent workflows before automated actions go too far. Require explicit approval for high-impact or irreversible steps rather than letting the agent proceed autonomously.",
+    "title_fa": "قبل از اقدام بازگشت‌ناپذیر، یک ایستگاه تأیید انسانی بگذارید",
+    "body_fa": "قضاوت انسانی را پیش از آنکه اقدام خودکار ایجنت از کنترل خارج شود در جریان کار قرار دهید. برای مراحل پرتأثیر یا بازگشت‌ناپذیر تأیید صریح بخواهید و اجازه ندهید ایجنت خودسرانه ادامه دهد.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
