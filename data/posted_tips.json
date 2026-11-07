@@ -886,5 +886,17 @@
     "body_fa": "پیش از دادن دسترسی نوشتن به ایجنت در محیط عملیاتی، کلید یکتای تکرارنشدنی، نقطهٔ بازرسی و تلاش مجدد محدود اضافه کنید تا اجرای نیمه‌کاره بدون تکرار تراکنش یا هدر رفتن توکن از سر گرفته شود.",
     "difficulty": "advanced",
     "source_url": "https://securityboulevard.com/2026/11/failure-recovery-is-the-agentic-ai-problem-nobody-talks-about/"
+  },
+  {
+    "id": "c49ae486-b3f1-44f3-9ee4-e41178f7f03a",
+    "date": "2026-11-07",
+    "posted_at": "2026-11-07T02:47:42.441795+00:00",
+    "telegram_message_id": 99,
+    "title_en": "Scope AI coding tools by role, not by headcount",
+    "body_en": "Goldman Sachs limited Claude Code and GitHub AI tools to roughly 12,000 engineers and pulled access from most bankers. Give coding agents to the roles that will actually review and own the output, instead of provisioning them across the whole organization.",
+    "title_fa": "دسترسی به ابزارهای کدنویسی هوش مصنوعی را بر اساس نقش بدهید، نه برای همه",
+    "body_fa": "گلدمن ساکس دسترسی به Claude Code و ابزارهای گیت‌هاب را به حدود ۱۲ هزار مهندسش محدود کرد و آن را از بیشتر بانکداران گرفت. ابزارهای عامل کدنویسی را به نقش‌هایی بدهید که واقعاً خروجی را بازبینی و مالکیت می‌کنند، نه اینکه یک‌جا برای کل سازمان فعالشان کنید.",
+    "difficulty": "beginner",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-restricts-ai-coding-150508601.html"
   }
 ]
