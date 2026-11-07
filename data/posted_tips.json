@@ -910,5 +910,17 @@
     "body_fa": "agentی که کورکورانه دوباره تلاش می‌کند می‌تواند تراکنش‌ها را تکراری کند و توکن بسوزاند. پیش از عرضه مشخص کنید در شکست جزئی چه اتفاقی می‌افتد: عملیات را idempotent کنید، کارهای طولانی را checkpoint کنید و تعداد retry را محدود کنید تا یک مرحلهٔ ناموفق اثرات جانبی را تکرار نکند.",
     "difficulty": "advanced",
     "source_url": "https://securityboulevard.com/2026/11/failure-recovery-is-the-agentic-ai-problem-nobody-talks-about/"
+  },
+  {
+    "id": "b0a3caf0-afe6-4d89-9a9e-03cb64f333d8",
+    "date": "2026-11-07",
+    "posted_at": "2026-11-07T20:52:16.314010+00:00",
+    "telegram_message_id": 101,
+    "title_en": "Treat Evals as a Governance Control",
+    "body_en": "Before widening an agent's permissions, build a repeatable evaluation suite that tests its decisions against realistic scenarios. Evals give you concrete evidence when an agent starts drifting off track, which traditional governance checklists tend to miss.",
+    "title_fa": "ارزیابی را بخشی از حاکمیت عامل بدانید",
+    "body_fa": "پیش از اینکه اختیارات یک عامل را بیشتر کنید، مجموعه‌ای تکرارپذیر از آزمون‌ها بسازید که تصمیم‌هایش را در سناریوهای واقعی بسنجد. ارزیابی به شما شواهد عینی می‌دهد تا انحراف عامل را زودتر تشخیص دهید؛ چیزی که چک‌لیست‌های سنتی حاکمیت معمولاً از آن غافل می‌مانند.",
+    "difficulty": "intermediate",
+    "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
   }
 ]
