@@ -898,5 +898,17 @@
     "body_fa": "گلدمن ساکس دسترسی به Claude Code و ابزارهای گیت‌هاب را به حدود ۱۲ هزار مهندسش محدود کرد و آن را از بیشتر بانکداران گرفت. ابزارهای عامل کدنویسی را به نقش‌هایی بدهید که واقعاً خروجی را بازبینی و مالکیت می‌کنند، نه اینکه یک‌جا برای کل سازمان فعالشان کنید.",
     "difficulty": "beginner",
     "source_url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-restricts-ai-coding-150508601.html"
+  },
+  {
+    "id": "f28bac66-14ae-4b8c-909b-1d36e935bf60",
+    "date": "2026-11-07",
+    "posted_at": "2026-11-07T11:43:11.463759+00:00",
+    "telegram_message_id": 100,
+    "title_en": "Design Agent Failure Recovery Before Launch",
+    "body_en": "An agent that retries blindly can duplicate transactions and burn tokens. Before shipping, define what happens on partial failure: use idempotent actions, checkpoint long-running work, and cap retries so a failed step cannot repeat side effects.",
+    "title_fa": "بازیابی از خطا را قبل از عرضهٔ agent طراحی کنید",
+    "body_fa": "agentی که کورکورانه دوباره تلاش می‌کند می‌تواند تراکنش‌ها را تکراری کند و توکن بسوزاند. پیش از عرضه مشخص کنید در شکست جزئی چه اتفاقی می‌افتد: عملیات را idempotent کنید، کارهای طولانی را checkpoint کنید و تعداد retry را محدود کنید تا یک مرحلهٔ ناموفق اثرات جانبی را تکرار نکند.",
+    "difficulty": "advanced",
+    "source_url": "https://securityboulevard.com/2026/11/failure-recovery-is-the-agentic-ai-problem-nobody-talks-about/"
   }
 ]
