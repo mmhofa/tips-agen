@@ -922,5 +922,17 @@
     "body_fa": "پیش از اینکه اختیارات یک عامل را بیشتر کنید، مجموعه‌ای تکرارپذیر از آزمون‌ها بسازید که تصمیم‌هایش را در سناریوهای واقعی بسنجد. ارزیابی به شما شواهد عینی می‌دهد تا انحراف عامل را زودتر تشخیص دهید؛ چیزی که چک‌لیست‌های سنتی حاکمیت معمولاً از آن غافل می‌مانند.",
     "difficulty": "intermediate",
     "source_url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
+  },
+  {
+    "id": "b384a486-9ec5-463d-bdf0-2954d0a3c0a1",
+    "date": "2026-11-08",
+    "posted_at": "2026-11-08T02:28:39.437334+00:00",
+    "telegram_message_id": 102,
+    "title_en": "Build a human stop point into the workflow",
+    "body_en": "Define the moments when an agent must pause and ask a person—high-value payments, irreversible changes, or ambiguous requests. Human judgment should be a designed checkpoint, not an afterthought.",
+    "title_fa": "نقطه توقف انسانی را در گردش‌کار بگنجانید",
+    "body_fa": "از قبل مشخص کنید ایجنت کجا باید متوقف شود و از انسان کمک بگیرد: پرداخت‌های پرریسک، تغییرات برگشت‌ناپذیر یا درخواست‌های مبهم. قضاوت انسانی باید بخشی از طراحی گردش‌کار باشد، نه یک واکنش اضطراری.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
