@@ -934,5 +934,17 @@
     "body_fa": "از قبل مشخص کنید ایجنت کجا باید متوقف شود و از انسان کمک بگیرد: پرداخت‌های پرریسک، تغییرات برگشت‌ناپذیر یا درخواست‌های مبهم. قضاوت انسانی باید بخشی از طراحی گردش‌کار باشد، نه یک واکنش اضطراری.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "f25c86d5-4004-47f7-8396-1c99969a6145",
+    "date": "2026-11-08",
+    "posted_at": "2026-11-08T11:55:53.457448+00:00",
+    "telegram_message_id": 103,
+    "title_en": "Redesign the Workflow, Not Just the Tool",
+    "body_en": "Half of software teams already use agentic AI and 98% expect faster delivery, but experts note the big gains only arrive after roles and workflows are redesigned around the agent. Before scaling usage, map which handoffs, reviews and approvals need to change.",
+    "title_fa": "ابزار را عوض نکنید، جریان کار را بازطراحی کنید",
+    "body_fa": "نیمی از تیم‌های نرم‌افزاری از هوش مصنوعی عامل‌محور استفاده می‌کنند و ۹۸ درصدشان انتظار تحویل سریع‌تر دارند؛ اما کارشناسان می‌گویند سود واقعی زمانی به دست می‌آید که نقش‌ها و جریان کار را حول عامل بازطراحی کنید. پیش از گسترش استفاده، مشخص کنید کدام تحویل‌ها، بازبینی‌ها و تأییدها باید تغییر کنند.",
+    "difficulty": "beginner",
+    "source_url": "https://www.vktr.com/leadership/how-ai-coding-changes-the-software-development-lifecycle-01/"
   }
 ]
