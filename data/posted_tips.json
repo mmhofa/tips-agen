@@ -946,5 +946,17 @@
     "body_fa": "نیمی از تیم‌های نرم‌افزاری از هوش مصنوعی عامل‌محور استفاده می‌کنند و ۹۸ درصدشان انتظار تحویل سریع‌تر دارند؛ اما کارشناسان می‌گویند سود واقعی زمانی به دست می‌آید که نقش‌ها و جریان کار را حول عامل بازطراحی کنید. پیش از گسترش استفاده، مشخص کنید کدام تحویل‌ها، بازبینی‌ها و تأییدها باید تغییر کنند.",
     "difficulty": "beginner",
     "source_url": "https://www.vktr.com/leadership/how-ai-coding-changes-the-software-development-lifecycle-01/"
+  },
+  {
+    "id": "5dca2db1-8727-437f-9f0a-11f0e74f31a1",
+    "date": "2026-11-08",
+    "posted_at": "2026-11-08T21:10:14.897165+00:00",
+    "telegram_message_id": 104,
+    "title_en": "Design for Failure Recovery, Not Just Autonomy",
+    "body_en": "Agentic systems fail mid-task. Before giving an agent write access, add idempotency keys, checkpoints, and a clear retry policy so a crashed run cannot duplicate transactions or burn tokens on repeated attempts.",
+    "title_fa": "عامل‌ها هم شکست می‌خورند؛ برای بازیابی برنامه داشته باشید",
+    "body_fa": "وقتی یک عامل هوشمند وسط انجام کار قطع می‌شود، بدون طراحی درست ممکن است همان تراکنش را دو بار ثبت کند یا توکن‌ها را هدر بدهد. پیش از دادن دسترسی نوشتن به عامل، کلید یکتاسازی (idempotency)، نقطه بازرسی و سیاست تلاش مجدد مشخص تعریف کنید تا اجرای مجدد، خرابی قبلی را تکرار نکند.",
+    "difficulty": "advanced",
+    "source_url": "https://securityboulevard.com/2026/11/failure-recovery-is-the-agentic-ai-problem-nobody-talks-about/"
   }
 ]
