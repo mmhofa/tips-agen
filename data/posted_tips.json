@@ -958,5 +958,17 @@
     "body_fa": "وقتی یک عامل هوشمند وسط انجام کار قطع می‌شود، بدون طراحی درست ممکن است همان تراکنش را دو بار ثبت کند یا توکن‌ها را هدر بدهد. پیش از دادن دسترسی نوشتن به عامل، کلید یکتاسازی (idempotency)، نقطه بازرسی و سیاست تلاش مجدد مشخص تعریف کنید تا اجرای مجدد، خرابی قبلی را تکرار نکند.",
     "difficulty": "advanced",
     "source_url": "https://securityboulevard.com/2026/11/failure-recovery-is-the-agentic-ai-problem-nobody-talks-about/"
+  },
+  {
+    "id": "72704dc9-52a4-494c-a217-559a72755af0",
+    "date": "2026-11-09",
+    "posted_at": "2026-11-09T02:39:33.238183+00:00",
+    "telegram_message_id": 105,
+    "title_en": "Design failure recovery before you need it",
+    "body_en": "Assume agents will fail mid-task. Build in checkpoints, idempotent operations, and retry limits from the start; otherwise a single interruption can cascade into duplicate transactions, wasted tokens, and costly cleanup.",
+    "title_fa": "بازیابی پس از شکست را از ابتدا طراحی کنید",
+    "body_fa": "فرض کنید عامل در میانهٔ کار قطع می‌شود. از همان مرحلهٔ طراحی، نقطه‌های بازرسی، عملیات یکتاسازی‌شده و سقف تلاش مجدد را در نظر بگیرید؛ وگرنه یک وقفهٔ ساده می‌تواند به تراکنش‌های تکراری، مصرف بی‌رویهٔ توکن و هزینه‌های سنگین پاک‌سازی تبدیل شود.",
+    "difficulty": "advanced",
+    "source_url": "https://securityboulevard.com/2026/11/failure-recovery-is-the-agentic-ai-problem-nobody-talks-about/"
   }
 ]
