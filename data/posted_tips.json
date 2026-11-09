@@ -970,5 +970,17 @@
     "body_fa": "فرض کنید عامل در میانهٔ کار قطع می‌شود. از همان مرحلهٔ طراحی، نقطه‌های بازرسی، عملیات یکتاسازی‌شده و سقف تلاش مجدد را در نظر بگیرید؛ وگرنه یک وقفهٔ ساده می‌تواند به تراکنش‌های تکراری، مصرف بی‌رویهٔ توکن و هزینه‌های سنگین پاک‌سازی تبدیل شود.",
     "difficulty": "advanced",
     "source_url": "https://securityboulevard.com/2026/11/failure-recovery-is-the-agentic-ai-problem-nobody-talks-about/"
+  },
+  {
+    "id": "714ddc93-2258-43a0-be9f-f0877cb10b31",
+    "date": "2026-11-09",
+    "posted_at": "2026-11-09T13:53:31.006967+00:00",
+    "telegram_message_id": 106,
+    "title_en": "Replace binary approvals with tiered oversight",
+    "body_en": "If every agent action needs a yes/no review, reviewers burn out and oversight becomes theater; define risk tiers so low-risk actions run automatically and human attention goes to the decisions that matter.",
+    "title_fa": "تأیید دودویی را با نظارت لایه‌ای جایگزین کنید",
+    "body_fa": "وقتی هر اقدام عامل باید تأیید یا رد شود، بازبین‌ها خسته می‌شوند و نظارت به نمایشی تشریفاتی تبدیل می‌شود؛ سطوح ریسک تعریف کنید تا اقدام‌های کم‌خطر خودکار اجرا شوند و توجه انسان صرف تصمیم‌های مهم شود.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.cmswire.com/contact-center/approval-fatigue-is-turning-contact-center-oversight-into-theater/"
   }
 ]
