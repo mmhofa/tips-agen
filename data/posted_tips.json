@@ -994,5 +994,17 @@
     "body_fa": "در جریان‌های کار ایجنت‌ی باید قضاوت انسانی را از همان ابتدا در مسیر قرار داد تا کنش‌های خودکار از حد نگذرند. چند تصمیم بازگشت‌ناپذیر یا پرتأثیر را مشخص کنید و ایجنت را وادارید در همان نقاط بایستد و تأیید بگیرد، نه اینکه خودسرانه اقدام کند.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "0a11c0f5-0787-4019-8fed-efabd025b669",
+    "date": "2026-11-10",
+    "posted_at": "2026-11-10T13:27:49.837834+00:00",
+    "telegram_message_id": 108,
+    "title_en": "Set Access Boundaries Before Connecting Agents",
+    "body_en": "AI agents create new security risk when they connect business data, tools, and automated actions. Before wiring them up, define clear access boundaries so each agent can reach only what its task requires.",
+    "title_fa": "قبل از اتصال عامل‌ها، مرز دسترسی را مشخص کنید",
+    "body_fa": "عامل‌های هوش مصنوعی وقتی به داده‌ها، ابزارها و اقدام‌های خودکار وصل می‌شوند، ریسک امنیتی تازه می‌سازند. پیش از اتصال، مرز دسترسی را روشن تعیین کنید تا هر عامل فقط به همان چیزی برسد که برای وظیفه‌اش لازم است.",
+    "difficulty": "beginner",
+    "source_url": "https://www.remio.ai/post/hidden-security-risks-of-ai-agents-what-businesses-developers-need-to-know"
   }
 ]
