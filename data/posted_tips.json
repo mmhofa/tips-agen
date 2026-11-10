@@ -982,5 +982,17 @@
     "body_fa": "وقتی هر اقدام عامل باید تأیید یا رد شود، بازبین‌ها خسته می‌شوند و نظارت به نمایشی تشریفاتی تبدیل می‌شود؛ سطوح ریسک تعریف کنید تا اقدام‌های کم‌خطر خودکار اجرا شوند و توجه انسان صرف تصمیم‌های مهم شود.",
     "difficulty": "intermediate",
     "source_url": "https://www.cmswire.com/contact-center/approval-fatigue-is-turning-contact-center-oversight-into-theater/"
+  },
+  {
+    "id": "77cc98ac-2b92-4fdf-9424-5f5ecd7c31e0",
+    "date": "2026-11-10",
+    "posted_at": "2026-11-10T00:41:36.099277+00:00",
+    "telegram_message_id": 107,
+    "title_en": "Build in a stop-and-ask-a-human checkpoint",
+    "body_en": "Agentic workflows need human judgment wired in before automated actions go too far. Pick the few decisions that are irreversible or high-impact, and make the agent pause and request approval at those points instead of acting on its own.",
+    "title_fa": "نقطهٔ توقف و پرسش از انسان را در جریان کار بگذارید",
+    "body_fa": "در جریان‌های کار ایجنت‌ی باید قضاوت انسانی را از همان ابتدا در مسیر قرار داد تا کنش‌های خودکار از حد نگذرند. چند تصمیم بازگشت‌ناپذیر یا پرتأثیر را مشخص کنید و ایجنت را وادارید در همان نقاط بایستد و تأیید بگیرد، نه اینکه خودسرانه اقدام کند.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
