@@ -1006,5 +1006,17 @@
     "body_fa": "عامل‌های هوش مصنوعی وقتی به داده‌ها، ابزارها و اقدام‌های خودکار وصل می‌شوند، ریسک امنیتی تازه می‌سازند. پیش از اتصال، مرز دسترسی را روشن تعیین کنید تا هر عامل فقط به همان چیزی برسد که برای وظیفه‌اش لازم است.",
     "difficulty": "beginner",
     "source_url": "https://www.remio.ai/post/hidden-security-risks-of-ai-agents-what-businesses-developers-need-to-know"
+  },
+  {
+    "id": "b31da58a-738f-4fd5-a04c-e30d7f98e9f7",
+    "date": "2026-11-10",
+    "posted_at": "2026-11-10T22:22:38.411650+00:00",
+    "telegram_message_id": 109,
+    "title_en": "Keep the toolset small so agents choose correctly",
+    "body_en": "Adding more tools to an agent can make it worse at picking the right one. Before you expand a tool catalog, merge overlapping tools, remove ones the agent rarely needs, and retest tool selection after every addition. A short, clearly described toolset beats a large, ambiguous one.",
+    "title_fa": "هرچه ابزار کمتر، انتخاب دقیق‌تر عامل هوشمند",
+    "body_fa": "وقتی به یک عامل هوش مصنوعی ابزارهای بیشتری اضافه می‌کنید، لزوماً عملکردش بهتر نمی‌شود؛ ممکن است در انتخاب ابزار درست بیشتر اشتباه کند. پیش از بزرگ‌کردن فهرست ابزارها، ابزارهای هم‌پوشان را ادغام کنید، مواردی را که کم استفاده می‌شوند کنار بگذارید و پس از هر افزودن، دقت انتخاب ابزار را دوباره بسنجید. یک مجموعه کوچک با توضیحات روشن بهتر از انبوهی از ابزارهای مبهم جواب می‌دهد.",
+    "difficulty": "intermediate",
+    "source_url": "https://hackernoon.com/ai-agents-pick-the-wrong-tool-more-often-as-you-add-tools-and-research-shows-why"
   }
 ]
