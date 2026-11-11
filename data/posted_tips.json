@@ -1042,5 +1042,17 @@
     "body_fa": "پیش از اینکه ایجنت به محیط عملیاتی دسترسی پیدا کند، سند امضاشده و قابل‌حسابرسی بخواهید که نشان دهد چه چیزی دربارهٔ ایجنت بررسی شده، چه کسی آن را تأیید کرده و بر اساس کدام استاندارد. این‌گونه اعتماد به ایجنت قابل بررسی است، نه فرضی.",
     "difficulty": "advanced",
     "source_url": "https://blogs.cisco.com/ai/building-trust-into-enterprise-ai-agents-cisco-ai-defense-and-workday-agent-passport"
+  },
+  {
+    "id": "32ad6f2a-5944-41af-9430-94b1af6a0830",
+    "date": "2026-11-11",
+    "posted_at": "2026-11-11T23:28:02.454139+00:00",
+    "telegram_message_id": 112,
+    "title_en": "Apply NIST's principles to agent identity and access",
+    "body_en": "NIST has outlined ten principles for AI agent identity and authorization, including delegated access and revocable permissions. Use them as a checklist when designing how agents authenticate, what they are allowed to do on a user's behalf, and how quickly their access can be withdrawn.",
+    "title_fa": "اصول NIST را برای هویت و دسترسی عامل به کار ببندید",
+    "body_fa": "NIST ده اصل برای هویت و مجوزدهی عامل‌های هوش مصنوعی ارائه کرده است؛ از جمله دسترسی واگذارشده و مجوزهای قابل‌لغو. این اصول را به‌عنوان چک‌لیست طراحی به کار بگیرید: عامل چطور احراز هویت می‌شود، به نیابت از کاربر چه کارهایی مجاز است انجام دهد و دسترسی‌اش با چه سرعتی می‌تواند پس گرفته شود.",
+    "difficulty": "advanced",
+    "source_url": "https://www.biometricupdate.com/202611/nist-sets-10-principles-for-ai-agent-identity-and-authorization"
   }
 ]
