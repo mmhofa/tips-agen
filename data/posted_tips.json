@@ -1030,5 +1030,17 @@
     "body_fa": "هر ابزاری که به ایجنت اضافه می‌کنید، احتمال انتخاب اشتباه را بالا می‌برد. مجموعه ابزارها را دوره‌ای بازبینی کنید، ابزارهای تکراری یا کم‌استفاده را حذف کنید و پیش از افزودن قابلیت تازه، انتخاب ابزار را با وظایف واقعی محک بزنید.",
     "difficulty": "intermediate",
     "source_url": "https://hackernoon.com/ai-agents-pick-the-wrong-tool-more-often-as-you-add-tools-and-research-shows-why"
+  },
+  {
+    "id": "fd5253e3-1336-4d20-849c-dd891384eabd",
+    "date": "2026-11-11",
+    "posted_at": "2026-11-11T12:43:11.348422+00:00",
+    "telegram_message_id": 111,
+    "title_en": "Require a Verifiable Agent Passport",
+    "body_en": "Before an agent touches production, require a signed, auditable record of what was verified about it, who verified it, and to what standard—so trust in the agent is checkable rather than assumed.",
+    "title_fa": "برای هر ایجنت شناسنامهٔ قابل‌راستی‌آزمایی بخواهید",
+    "body_fa": "پیش از اینکه ایجنت به محیط عملیاتی دسترسی پیدا کند، سند امضاشده و قابل‌حسابرسی بخواهید که نشان دهد چه چیزی دربارهٔ ایجنت بررسی شده، چه کسی آن را تأیید کرده و بر اساس کدام استاندارد. این‌گونه اعتماد به ایجنت قابل بررسی است، نه فرضی.",
+    "difficulty": "advanced",
+    "source_url": "https://blogs.cisco.com/ai/building-trust-into-enterprise-ai-agents-cisco-ai-defense-and-workday-agent-passport"
   }
 ]
