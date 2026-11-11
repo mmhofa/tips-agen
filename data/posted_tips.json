@@ -1018,5 +1018,17 @@
     "body_fa": "وقتی به یک عامل هوش مصنوعی ابزارهای بیشتری اضافه می‌کنید، لزوماً عملکردش بهتر نمی‌شود؛ ممکن است در انتخاب ابزار درست بیشتر اشتباه کند. پیش از بزرگ‌کردن فهرست ابزارها، ابزارهای هم‌پوشان را ادغام کنید، مواردی را که کم استفاده می‌شوند کنار بگذارید و پس از هر افزودن، دقت انتخاب ابزار را دوباره بسنجید. یک مجموعه کوچک با توضیحات روشن بهتر از انبوهی از ابزارهای مبهم جواب می‌دهد.",
     "difficulty": "intermediate",
     "source_url": "https://hackernoon.com/ai-agents-pick-the-wrong-tool-more-often-as-you-add-tools-and-research-shows-why"
+  },
+  {
+    "id": "572e465b-2ecb-4fb2-810f-b60b7bda5fa7",
+    "date": "2026-11-11",
+    "posted_at": "2026-11-11T02:46:52.777444+00:00",
+    "telegram_message_id": 110,
+    "title_en": "Keep agent tool lists lean",
+    "body_en": "Every extra tool increases the chance an agent picks the wrong one. Audit your tool set regularly, remove overlapping or rarely used tools, and test tool selection against realistic tasks before adding more capabilities.",
+    "title_fa": "فهرست ابزارهای ایجنت را لاغر نگه دارید",
+    "body_fa": "هر ابزاری که به ایجنت اضافه می‌کنید، احتمال انتخاب اشتباه را بالا می‌برد. مجموعه ابزارها را دوره‌ای بازبینی کنید، ابزارهای تکراری یا کم‌استفاده را حذف کنید و پیش از افزودن قابلیت تازه، انتخاب ابزار را با وظایف واقعی محک بزنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://hackernoon.com/ai-agents-pick-the-wrong-tool-more-often-as-you-add-tools-and-research-shows-why"
   }
 ]
