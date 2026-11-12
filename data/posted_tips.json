@@ -1066,5 +1066,17 @@
     "body_fa": "پژوهش BlackFog نشان می‌دهد ۴۷٪ از رهبران امنیتی حادثه‌ای داشته‌اند که داده حساس از طریق یک ابزار هوش مصنوعی افشا شده است. پیش از رسیدن داده به عامل، آن را طبقه‌بندی کنید، موارد غیرضروری را حذف یا پوشانده کنید و فراخوانی ابزارهایی را که به داده حساس دست می‌زنند ثبت کنید.",
     "difficulty": "beginner",
     "source_url": "https://finance.yahoo.com/technology/ai/articles/blackfog-research-47-security-leaders-140000594.html"
+  },
+  {
+    "id": "91943d2b-2daa-4891-8fa0-a3999ce9f5fb",
+    "date": "2026-11-12",
+    "posted_at": "2026-11-12T22:43:58.099979+00:00",
+    "telegram_message_id": 114,
+    "title_en": "Add human approval gates before irreversible actions",
+    "body_en": "Build human approval checkpoints into agent workflows before sensitive or irreversible actions, so human judgment is applied before automation goes too far.",
+    "title_fa": "دروازه تأیید انسانی برای اقدام‌های بازگشت‌ناپذیر بگذارید",
+    "body_fa": "در جریان‌های کاری عامل، پیش از اقدام‌های حساس یا بازگشت‌ناپذیر نقطه تأیید انسانی قرار دهید تا قضاوت انسان قبل از پیشروی خودکار اعمال شود.",
+    "difficulty": "intermediate",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
