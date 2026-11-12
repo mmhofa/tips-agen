@@ -1054,5 +1054,17 @@
     "body_fa": "NIST ده اصل برای هویت و مجوزدهی عامل‌های هوش مصنوعی ارائه کرده است؛ از جمله دسترسی واگذارشده و مجوزهای قابل‌لغو. این اصول را به‌عنوان چک‌لیست طراحی به کار بگیرید: عامل چطور احراز هویت می‌شود، به نیابت از کاربر چه کارهایی مجاز است انجام دهد و دسترسی‌اش با چه سرعتی می‌تواند پس گرفته شود.",
     "difficulty": "advanced",
     "source_url": "https://www.biometricupdate.com/202611/nist-sets-10-principles-for-ai-agent-identity-and-authorization"
+  },
+  {
+    "id": "7b70efbf-7105-4064-9f9a-ade647428a72",
+    "date": "2026-11-12",
+    "posted_at": "2026-11-12T13:45:26.794789+00:00",
+    "telegram_message_id": 113,
+    "title_en": "Minimize Sensitive Data Sent to AI Tools",
+    "body_en": "BlackFog research reports that 47% of security leaders have experienced an incident where sensitive data was exposed through an AI tool. Classify data before it reaches an agent, redact what isn't needed, and log tool calls that touch sensitive records.",
+    "title_fa": "داده‌های حساس را تا حد امکان به ابزارهای AI ندهید",
+    "body_fa": "پژوهش BlackFog نشان می‌دهد ۴۷٪ از رهبران امنیتی حادثه‌ای داشته‌اند که داده حساس از طریق یک ابزار هوش مصنوعی افشا شده است. پیش از رسیدن داده به عامل، آن را طبقه‌بندی کنید، موارد غیرضروری را حذف یا پوشانده کنید و فراخوانی ابزارهایی را که به داده حساس دست می‌زنند ثبت کنید.",
+    "difficulty": "beginner",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/blackfog-research-47-security-leaders-140000594.html"
   }
 ]
