@@ -1102,5 +1102,17 @@
     "body_fa": "هر ابزار تازه‌ای که به یک عامل هوش مصنوعی می‌دهید، احتمال انتخاب اشتباه را بیشتر می‌کند. با مجموعه‌ای کوچک و دست‌چین‌شده شروع کنید و هر بار ابزار جدیدی اضافه می‌کنید، دقت انتخاب ابزار را دوباره بسنجید.",
     "difficulty": "intermediate",
     "source_url": "https://hackernoon.com/ai-agents-pick-the-wrong-tool-more-often-as-you-add-tools-and-research-shows-why"
+  },
+  {
+    "id": "8f8aa8c0-0fe1-40e6-b90d-a92f1f85a1a7",
+    "date": "2026-11-13",
+    "posted_at": "2026-11-13T22:37:17.920203+00:00",
+    "telegram_message_id": 117,
+    "title_en": "Design for Cost Before You Scale",
+    "body_en": "Agent costs grow quickly because of poor architecture and limited operational discipline. Review your agent architecture and operating practices early — before scaling — rather than trying to trim an expensive system after rollout.",
+    "title_fa": "پیش از مقیاس‌پذیری، هزینه را طراحی کنید",
+    "body_fa": "هزینهٔ ایجنت‌ها به‌خاطر معماری ضعیف و کم‌بودن نظم عملیاتی سریع بالا می‌رود. به‌جای اینکه بعد از استقرار دنبال کم‌کردن هزینهٔ یک سیستم گران بیفتید، از همان ابتدا معماری و رویه‌های عملیاتی ایجنت را بازبینی کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
   }
 ]
