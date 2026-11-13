@@ -1078,5 +1078,17 @@
     "body_fa": "در جریان‌های کاری عامل، پیش از اقدام‌های حساس یا بازگشت‌ناپذیر نقطه تأیید انسانی قرار دهید تا قضاوت انسان قبل از پیشروی خودکار اعمال شود.",
     "difficulty": "intermediate",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "906a0d26-db1c-4443-992b-cf57a4b53f13",
+    "date": "2026-11-13",
+    "posted_at": "2026-11-13T03:25:33.556287+00:00",
+    "telegram_message_id": 115,
+    "title_en": "Create a reusable evaluation framework",
+    "body_en": "Don't build a bespoke test harness for every new agent. Create a shared, reusable evaluation framework for agentic AI products so teams can apply consistent checks across different agents.",
+    "title_fa": "چارچوب ارزیابی قابل‌استفاده مجدد بسازید",
+    "body_fa": "برای هر عامل جدید، چرخه تست اختصاصی نسازید. یک چارچوب ارزیابی مشترک و قابل‌استفاده مجدد برای محصولات عامل‌محور بسازید تا تیم‌ها بتوانند همان معیارها و آزمون‌ها را در عامل‌های مختلف به کار ببرند.",
+    "difficulty": "advanced",
+    "source_url": "https://www.infoq.com/presentations/elastic-ai-agent-evaluations/"
   }
 ]
