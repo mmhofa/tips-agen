@@ -1090,5 +1090,17 @@
     "body_fa": "برای هر عامل جدید، چرخه تست اختصاصی نسازید. یک چارچوب ارزیابی مشترک و قابل‌استفاده مجدد برای محصولات عامل‌محور بسازید تا تیم‌ها بتوانند همان معیارها و آزمون‌ها را در عامل‌های مختلف به کار ببرند.",
     "difficulty": "advanced",
     "source_url": "https://www.infoq.com/presentations/elastic-ai-agent-evaluations/"
+  },
+  {
+    "id": "009ac463-898b-44a4-83d3-ec3f49faca7d",
+    "date": "2026-11-13",
+    "posted_at": "2026-11-13T13:06:02.191369+00:00",
+    "telegram_message_id": 116,
+    "title_en": "Keep Agent Toolsets Small and Measured",
+    "body_en": "Adding more tools can make an AI agent choose the wrong one more often. Start with a small, curated toolset, and test tool-selection accuracy whenever you add a new tool.",
+    "title_fa": "مجموعه ابزارهای عامل را کوچک و سنجیده نگه دارید",
+    "body_fa": "هر ابزار تازه‌ای که به یک عامل هوش مصنوعی می‌دهید، احتمال انتخاب اشتباه را بیشتر می‌کند. با مجموعه‌ای کوچک و دست‌چین‌شده شروع کنید و هر بار ابزار جدیدی اضافه می‌کنید، دقت انتخاب ابزار را دوباره بسنجید.",
+    "difficulty": "intermediate",
+    "source_url": "https://hackernoon.com/ai-agents-pick-the-wrong-tool-more-often-as-you-add-tools-and-research-shows-why"
   }
 ]
