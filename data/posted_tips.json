@@ -1126,5 +1126,17 @@
     "body_fa": "OpenAI و CrowdStrike کلیدهای توقفی برای متوقف کردن ایجنت‌های خطاکار معرفی کرده‌اند. پیش از دادن دسترسی تولید به ایجنت، مسیر توقف اضطراری و ارجاع به انسان را مشخص کنید و مطمئن شوید می‌توانید سریع متوقفش کنید.",
     "difficulty": "intermediate",
     "source_url": "https://www.ainvest.com/news/ai-agents-kill-switch-read-spec-price-story-2611/"
+  },
+  {
+    "id": "9535edff-cd0e-47f8-8115-c02596a6d70d",
+    "date": "2026-11-14",
+    "posted_at": "2026-11-14T12:10:35.630534+00:00",
+    "telegram_message_id": 119,
+    "title_en": "Treat agent output like a junior engineer's",
+    "body_en": "A useful mental model: trust AI agents only as much as you trust a junior engineer. Require code review, tests, and limited permissions before anything an agent produces reaches production.",
+    "title_fa": "خروجی ایجنت را مثل کار یک مهندس تازه‌کار ببینید",
+    "body_fa": "یک قاعده ذهنی کارآمد این است: به ایجنت‌های هوش مصنوعی فقط به اندازه یک مهندس تازه‌کار اعتماد کنید. هر چیزی که ایجنت تولید می‌کند باید پیش از رسیدن به محیط عملیاتی از بازبینی کد، تست و دسترسی‌های محدود عبور کند.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/deals/articles/ai-agents-only-trusted-junior-133301404.html"
   }
 ]
