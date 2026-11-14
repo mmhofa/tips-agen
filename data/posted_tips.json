@@ -1138,5 +1138,17 @@
     "body_fa": "یک قاعده ذهنی کارآمد این است: به ایجنت‌های هوش مصنوعی فقط به اندازه یک مهندس تازه‌کار اعتماد کنید. هر چیزی که ایجنت تولید می‌کند باید پیش از رسیدن به محیط عملیاتی از بازبینی کد، تست و دسترسی‌های محدود عبور کند.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/deals/articles/ai-agents-only-trusted-junior-133301404.html"
+  },
+  {
+    "id": "b7e1b5c3-1add-41d2-adb0-1a95d157117e",
+    "date": "2026-11-14",
+    "posted_at": "2026-11-14T21:29:01.769852+00:00",
+    "telegram_message_id": 120,
+    "title_en": "Make safety evaluations reproducible",
+    "body_en": "Anthropic's guidance on stronger AI safety evaluations focuses on test design, expert input, and reproducibility. Build your evals so another team can rerun them and compare results.",
+    "title_fa": "ارزیابی‌های ایمنی را قابل بازتولید کنید",
+    "body_fa": "توصیه‌های آنتروپیک برای ارزیابی‌های ایمنی قوی‌تر روی طراحی آزمون، نظر کارشناسان و تکرارپذیری تمرکز دارد. ارزیابی‌هایتان را طوری بسازید که تیم دیگری هم بتواند آن‌ها را دوباره اجرا کند و نتایج را مقایسه کند.",
+    "difficulty": "advanced",
+    "source_url": "https://casrai.org/news/anthropic-strong-safety-evaluation-recommendations-2026"
   }
 ]
