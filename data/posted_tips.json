@@ -1114,5 +1114,17 @@
     "body_fa": "هزینهٔ ایجنت‌ها به‌خاطر معماری ضعیف و کم‌بودن نظم عملیاتی سریع بالا می‌رود. به‌جای اینکه بعد از استقرار دنبال کم‌کردن هزینهٔ یک سیستم گران بیفتید، از همان ابتدا معماری و رویه‌های عملیاتی ایجنت را بازبینی کنید.",
     "difficulty": "intermediate",
     "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
+  },
+  {
+    "id": "cd90749f-f285-41b2-b768-f4a85d7a2cec",
+    "date": "2026-11-14",
+    "posted_at": "2026-11-14T03:14:00.758594+00:00",
+    "telegram_message_id": 118,
+    "title_en": "Define a kill switch before production access",
+    "body_en": "OpenAI and CrowdStrike introduced AI kill switches to terminate misbehaving agents. Before giving an agent production access, define an emergency stop and human escalation path, and test that you can stop it quickly.",
+    "title_fa": "کلید توقف را قبل از دسترسی تولید تعریف کنید",
+    "body_fa": "OpenAI و CrowdStrike کلیدهای توقفی برای متوقف کردن ایجنت‌های خطاکار معرفی کرده‌اند. پیش از دادن دسترسی تولید به ایجنت، مسیر توقف اضطراری و ارجاع به انسان را مشخص کنید و مطمئن شوید می‌توانید سریع متوقفش کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.ainvest.com/news/ai-agents-kill-switch-read-spec-price-story-2611/"
   }
 ]
