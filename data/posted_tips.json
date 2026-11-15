@@ -1150,5 +1150,17 @@
     "body_fa": "توصیه‌های آنتروپیک برای ارزیابی‌های ایمنی قوی‌تر روی طراحی آزمون، نظر کارشناسان و تکرارپذیری تمرکز دارد. ارزیابی‌هایتان را طوری بسازید که تیم دیگری هم بتواند آن‌ها را دوباره اجرا کند و نتایج را مقایسه کند.",
     "difficulty": "advanced",
     "source_url": "https://casrai.org/news/anthropic-strong-safety-evaluation-recommendations-2026"
+  },
+  {
+    "id": "58541e7a-7ebb-4636-8e77-c6ffadf2f141",
+    "date": "2026-11-15",
+    "posted_at": "2026-11-15T02:38:59.817429+00:00",
+    "telegram_message_id": 121,
+    "title_en": "Engineer agent costs from day one",
+    "body_en": "Agent costs often rise because of poor architecture and weak operational controls. Treat cost as a design constraint: review the architecture, set spending limits, and optimize operations before scaling to more users.",
+    "title_fa": "هزینه عامل‌ها را از روز اول مهندسی کنید",
+    "body_fa": "هزینه عامل‌ها اغلب به دلیل معماری ضعیف و کنترل‌های عملیاتی ناکافی بالا می‌رود. هزینه را از همان ابتدا یک محدودیت طراحی بدانید: معماری را بازبینی کنید، سقف هزینه بگذارید و پیش از گسترش به کاربران بیشتر، عملیات را بهینه کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
   }
 ]
