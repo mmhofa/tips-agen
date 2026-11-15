@@ -1174,5 +1174,17 @@
     "body_fa": "پیش از آنکه یک عامل هوش مصنوعی کاری بازگشت‌ناپذیر انجام دهد — مثل پرداخت، حذف داده یا ارسال پیام به مشتری — یک ایست بازرسی صریح بگذارید که عامل مجبور شود همان‌جا متوقف شود و تصمیم را به انسان بسپارد. این قابلیت را از همان ابتدا بخشی از طراحی گردش‌کار کنید، نه چیزی که بعد از بروز مشکل به آن اضافه شود.",
     "difficulty": "intermediate",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "6c947725-17d4-44c5-84de-068f80e2d682",
+    "date": "2026-11-15",
+    "posted_at": "2026-11-15T21:47:50.634410+00:00",
+    "telegram_message_id": 123,
+    "title_en": "Approve agent actions before they execute",
+    "body_en": "For high-impact steps such as payments, deletions, or production changes, insert a pre-execution check that reviews the agent's intended action and blocks anything outside policy.",
+    "title_fa": "پیش از اجرای اقدام‌های ایجنت، آن‌ها را تأیید کنید",
+    "body_fa": "برای کارهای پرخطر مثل پرداخت، حذف داده یا تغییر در محیط عملیاتی، یک مرحله بررسی پیش از اجرا بگذارید که قصد ایجنت را ارزیابی کند و هر چیزی را که خارج از سیاست است متوقف کند.",
+    "difficulty": "intermediate",
+    "source_url": "https://siliconangle.com/2026/11/10/ai-security-startup-bay-launches-with-50m-to-vet-agent-actions-before-they-run/"
   }
 ]
