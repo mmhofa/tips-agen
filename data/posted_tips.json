@@ -1162,5 +1162,17 @@
     "body_fa": "هزینه عامل‌ها اغلب به دلیل معماری ضعیف و کنترل‌های عملیاتی ناکافی بالا می‌رود. هزینه را از همان ابتدا یک محدودیت طراحی بدانید: معماری را بازبینی کنید، سقف هزینه بگذارید و پیش از گسترش به کاربران بیشتر، عملیات را بهینه کنید.",
     "difficulty": "intermediate",
     "source_url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/"
+  },
+  {
+    "id": "084b9013-c26e-482e-9d18-01f30884557b",
+    "date": "2026-11-15",
+    "posted_at": "2026-11-15T12:43:25.204094+00:00",
+    "telegram_message_id": 122,
+    "title_en": "Build a human stop point into agent workflows",
+    "body_en": "Before letting an agent take an irreversible action (payments, deletions, customer messages), define an explicit escalation checkpoint where it must pause and hand the decision to a person. Design the workflow so human judgment is a built-in step, not an afterthought added after something goes wrong.",
+    "title_fa": "برای عامل‌های هوشمند یک نقطه توقف انسانی تعریف کنید",
+    "body_fa": "پیش از آنکه یک عامل هوش مصنوعی کاری بازگشت‌ناپذیر انجام دهد — مثل پرداخت، حذف داده یا ارسال پیام به مشتری — یک ایست بازرسی صریح بگذارید که عامل مجبور شود همان‌جا متوقف شود و تصمیم را به انسان بسپارد. این قابلیت را از همان ابتدا بخشی از طراحی گردش‌کار کنید، نه چیزی که بعد از بروز مشکل به آن اضافه شود.",
+    "difficulty": "intermediate",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
