@@ -1198,5 +1198,17 @@
     "body_fa": "در جریان کار عامل، پیش از کارهایی مثل پرداخت، حذف اطلاعات یا تغییر حساب، مرحله تأیید انسانی تعریف کنید. وقتی ریسک بالاست، خودکارسازی باید بایستد و از انسان اجازه بگیرد، نه اینکه خودسرانه تصمیم بگیرد.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "496d7504-45fc-4b7b-9aa7-3348b8da64a9",
+    "date": "2026-11-16",
+    "posted_at": "2026-11-16T13:37:58.754546+00:00",
+    "telegram_message_id": 125,
+    "title_en": "Scan for exposed OAuth secrets before agents do",
+    "body_en": "Microsoft Threat Intelligence observed attackers using the agentic ARTEX framework to hunt GitHub for OAuth application secrets. Enable automated secret scanning on every repository, rotate any exposed OAuth credentials immediately, and limit what those applications can access.",
+    "title_fa": "پیش از ایجنت‌ها، رازهای OAuth را خودتان پیدا کنید",
+    "body_fa": "تیم اطلاعات تهدید مایکروسافت دیده است که مهاجمان با چارچوب ایجنتی ARTEX در گیت‌هاب به دنبال رازهای اپلیکیشن‌های OAuth می‌گردند. برای همه مخازن اسکن خودکار رازها را فعال کنید، هر کلید OAuth لو رفته را بی‌درنگ بچرخانید و دسترسی آن اپلیکیشن‌ها را تا حد لازم محدود کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/"
   }
 ]
