@@ -1186,5 +1186,17 @@
     "body_fa": "برای کارهای پرخطر مثل پرداخت، حذف داده یا تغییر در محیط عملیاتی، یک مرحله بررسی پیش از اجرا بگذارید که قصد ایجنت را ارزیابی کند و هر چیزی را که خارج از سیاست است متوقف کند.",
     "difficulty": "intermediate",
     "source_url": "https://siliconangle.com/2026/11/10/ai-security-startup-bay-launches-with-50m-to-vet-agent-actions-before-they-run/"
+  },
+  {
+    "id": "4ccd62ac-09e5-4c0c-a525-9d0e80ce58e5",
+    "date": "2026-11-16",
+    "posted_at": "2026-11-16T02:43:46.071500+00:00",
+    "telegram_message_id": 124,
+    "title_en": "Add human checkpoints before high-impact actions",
+    "body_en": "Build explicit human-approval steps into agent workflows before actions like payments, deletions, or account changes. Automation should pause and ask a person rather than improvise when the stakes are high.",
+    "title_fa": "پیش از اقدام‌های حساس، نقطه تأیید انسانی بگذارید",
+    "body_fa": "در جریان کار عامل، پیش از کارهایی مثل پرداخت، حذف اطلاعات یا تغییر حساب، مرحله تأیید انسانی تعریف کنید. وقتی ریسک بالاست، خودکارسازی باید بایستد و از انسان اجازه بگیرد، نه اینکه خودسرانه تصمیم بگیرد.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
