@@ -1210,5 +1210,17 @@
     "body_fa": "تیم اطلاعات تهدید مایکروسافت دیده است که مهاجمان با چارچوب ایجنتی ARTEX در گیت‌هاب به دنبال رازهای اپلیکیشن‌های OAuth می‌گردند. برای همه مخازن اسکن خودکار رازها را فعال کنید، هر کلید OAuth لو رفته را بی‌درنگ بچرخانید و دسترسی آن اپلیکیشن‌ها را تا حد لازم محدود کنید.",
     "difficulty": "intermediate",
     "source_url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/"
+  },
+  {
+    "id": "b05ab7de-a851-401a-ae09-51a5ab94d4fd",
+    "date": "2026-11-17",
+    "posted_at": "2026-11-17T00:48:05.708045+00:00",
+    "telegram_message_id": 126,
+    "title_en": "Assess AI readiness before building an agent",
+    "body_en": "Before investing in an AI solution, run a structured readiness assessment to decide whether to build it, fix an existing approach, or defer the project. This helps avoid spending on an agent when the organization is not ready.",
+    "title_fa": "پیش از ساخت ایجنت، آمادگی سازمان را بسنجید",
+    "body_fa": "پیش از سرمایه‌گذاری روی یک راهکار هوش مصنوعی، یک ارزیابی ساختاریافته از آمادگی انجام دهید تا روشن شود باید آن را ساخت، اصلاح کرد یا فعلاً کنار گذاشت. این کار جلوی هزینه‌کردن روی پروژه‌ای را می‌گیرد که زیرساخت لازم را ندارد.",
+    "difficulty": "beginner",
+    "source_url": "https://www.usatoday.com/press-release/story/57830/ai-readiness-assessment-framework-validated-by-softjourn-rd/"
   }
 ]
