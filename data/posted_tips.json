@@ -1234,5 +1234,17 @@
     "body_fa": "قبل از دادن دسترسی به ایجنت، یک سابقهٔ امضاشده و قابل حسابرسی بخواهید که نشان دهد چه چیزی دربارهٔ آن تأیید شده، چه کسی تأیید کرده و بر اساس چه استانداردی؛ سپس همان سابقه را در زمان اجرا بررسی کنید.",
     "difficulty": "intermediate",
     "source_url": "https://blogs.cisco.com/ai/building-trust-into-enterprise-ai-agents-cisco-ai-defense-and-workday-agent-passport"
+  },
+  {
+    "id": "8645412a-2c00-44dd-bbf3-96314bc40a9b",
+    "date": "2026-11-17",
+    "posted_at": "2026-11-17T23:51:04.081411+00:00",
+    "telegram_message_id": 128,
+    "title_en": "Treat Coding Agents Like Junior Engineers",
+    "body_en": "Give agentic coding tools narrow, well-defined tasks and require human review before merging or deploying. Their speed is useful, but their output should not get senior-level autonomy by default.",
+    "title_fa": "با ایجنت‌های کدنویس مثل مهندس تازه‌کار رفتار کنید",
+    "body_fa": "به ابزارهای کدنویسی ایجنت‌محور فقط کارهای محدود و دقیق بسپارید و پیش از ادغام یا استقرار، خروجی را حتماً بازبینی انسانی کنید. سرعتشان ارزشمند است، اما نباید به‌طور پیش‌فرض اختیار یک مهندس ارشد را داشته باشند.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/deals/articles/ai-agents-only-trusted-junior-133301404.html"
   }
 ]
