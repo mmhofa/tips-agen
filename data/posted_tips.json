@@ -1222,5 +1222,17 @@
     "body_fa": "پیش از سرمایه‌گذاری روی یک راهکار هوش مصنوعی، یک ارزیابی ساختاریافته از آمادگی انجام دهید تا روشن شود باید آن را ساخت، اصلاح کرد یا فعلاً کنار گذاشت. این کار جلوی هزینه‌کردن روی پروژه‌ای را می‌گیرد که زیرساخت لازم را ندارد.",
     "difficulty": "beginner",
     "source_url": "https://www.usatoday.com/press-release/story/57830/ai-readiness-assessment-framework-validated-by-softjourn-rd/"
+  },
+  {
+    "id": "d7c2fcf6-5230-46a0-a3c0-ee0d60ce0380",
+    "date": "2026-11-17",
+    "posted_at": "2026-11-17T14:22:53.776768+00:00",
+    "telegram_message_id": 127,
+    "title_en": "Require a signed passport for every agent",
+    "body_en": "Before an agent gets access, require a signed, auditable record of what was verified about it, who verified it, and to what standard—then check that record at runtime.",
+    "title_fa": "برای هر ایجنت یک گذرنامهٔ امضاشده بخواهید",
+    "body_fa": "قبل از دادن دسترسی به ایجنت، یک سابقهٔ امضاشده و قابل حسابرسی بخواهید که نشان دهد چه چیزی دربارهٔ آن تأیید شده، چه کسی تأیید کرده و بر اساس چه استانداردی؛ سپس همان سابقه را در زمان اجرا بررسی کنید.",
+    "difficulty": "intermediate",
+    "source_url": "https://blogs.cisco.com/ai/building-trust-into-enterprise-ai-agents-cisco-ai-defense-and-workday-agent-passport"
   }
 ]
