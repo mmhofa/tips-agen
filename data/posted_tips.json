@@ -1258,5 +1258,17 @@
     "body_fa": "در جریان‌های کاری ایجنتی باید قضاوت انسانی را پیش از آنکه اقدام خودکار بیش از حد جلو برود در فرایند بگنجانید. برای کارهای پرتأثیر مثل پرداخت، حذف اطلاعات، تغییر حساب یا ارسال پیام بیرونی نقطه توقف مشخص تعریف کنید و تا تأیید انسان، اجازه ادامه به ایجنت ندهید.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "04e19fb0-49c7-4b6f-b0f4-8e2ac773df3b",
+    "date": "2026-11-18",
+    "posted_at": "2026-11-18T23:22:44.999187+00:00",
+    "telegram_message_id": 130,
+    "title_en": "Design explicit human handoff points",
+    "body_en": "Build stop points into agent workflows where a human must review before the agent takes an irreversible or high-impact action. Human judgment should be part of the workflow, not an afterthought.",
+    "title_fa": "نقاط تحویل به انسان را از قبل طراحی کنید",
+    "body_fa": "در جریان کاری عامل، نقاط توقفی تعریف کنید که پیش از انجام یک اقدام بازگشت‌ناپذیر یا پراثر، انسان وارد شود و آن را بررسی کند. قضاوت انسانی باید بخشی از طراحی گردش‌کار باشد، نه چیزی که بعداً به آن اضافه شود.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
