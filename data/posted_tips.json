@@ -1246,5 +1246,17 @@
     "body_fa": "به ابزارهای کدنویسی ایجنت‌محور فقط کارهای محدود و دقیق بسپارید و پیش از ادغام یا استقرار، خروجی را حتماً بازبینی انسانی کنید. سرعتشان ارزشمند است، اما نباید به‌طور پیش‌فرض اختیار یک مهندس ارشد را داشته باشند.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/deals/articles/ai-agents-only-trusted-junior-133301404.html"
+  },
+  {
+    "id": "ba2c4c3b-5f46-43cc-a148-2f865d86c031",
+    "date": "2026-11-18",
+    "posted_at": "2026-11-18T13:56:56.701078+00:00",
+    "telegram_message_id": 129,
+    "title_en": "Add a human checkpoint before irreversible actions",
+    "body_en": "Agentic workflows need human judgment built in before automated actions go too far. Define clear stop points for high-impact steps such as payments, deletions, account changes, or external messages, and require approval before the agent proceeds.",
+    "title_fa": "قبل از اقدام‌های بازگشت‌ناپذیر یک ایستگاه انسانی بگذارید",
+    "body_fa": "در جریان‌های کاری ایجنتی باید قضاوت انسانی را پیش از آنکه اقدام خودکار بیش از حد جلو برود در فرایند بگنجانید. برای کارهای پرتأثیر مثل پرداخت، حذف اطلاعات، تغییر حساب یا ارسال پیام بیرونی نقطه توقف مشخص تعریف کنید و تا تأیید انسان، اجازه ادامه به ایجنت ندهید.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
