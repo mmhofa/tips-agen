@@ -1282,5 +1282,17 @@
     "body_fa": "وقتی می‌خواهید ایجنت‌های کدنویس مستقل کار کنند، آن‌ها را روی سیستم اصلی خودتان رها نکنید؛ یک محیط اجرای جداگانه برایشان بسازید. پروژه Eclipse Enclave 1.0 یک سندباکس متن‌باز و مستقل از فروشنده است که ابزارهایی مثل Claude Code و Codex را به‌صورت خودکار و با دسترسی کنترل‌شده به فایل‌ها و اطلاعات ورود اجرا می‌کند.",
     "difficulty": "intermediate",
     "source_url": "https://finance.yahoo.com/technology/ai/articles/eclipse-foundation-launches-eclipse-enclave-110000704.html"
+  },
+  {
+    "id": "43a6b017-99d1-4643-b670-a07ab3a9f840",
+    "date": "2026-11-19",
+    "posted_at": "2026-11-19T23:35:09.180616+00:00",
+    "telegram_message_id": 132,
+    "title_en": "Build in a stop-and-ask-a-human checkpoint",
+    "body_en": "Fortune's analysis argues that agentic AI needs human judgment embedded in workflows before automated actions go too far. For high-impact or irreversible steps, require an explicit human approval before the agent executes.",
+    "title_fa": "نقطه توقف و پرسش از انسان را در جریان کار بگنجانید",
+    "body_fa": "تحلیل فورچون تأکید می‌کند که قضاوت انسانی باید از قبل در جریان کار ایجنت‌ها تعبیه شود تا اقدام‌های خودکار از کنترل خارج نشوند. برای کارهای پرتأثیر یا برگشت‌ناپذیر، قبل از اجرا یک تأیید صریح انسانی بگذارید تا ایجنت بدون چراغ سبز جلو نرود.",
+    "difficulty": "intermediate",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
