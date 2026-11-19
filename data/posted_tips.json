@@ -1270,5 +1270,17 @@
     "body_fa": "در جریان کاری عامل، نقاط توقفی تعریف کنید که پیش از انجام یک اقدام بازگشت‌ناپذیر یا پراثر، انسان وارد شود و آن را بررسی کند. قضاوت انسانی باید بخشی از طراحی گردش‌کار باشد، نه چیزی که بعداً به آن اضافه شود.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "d848cb49-ea44-40c9-ac46-b9807c0ca8d3",
+    "date": "2026-11-19",
+    "posted_at": "2026-11-19T14:25:26.017136+00:00",
+    "telegram_message_id": 131,
+    "title_en": "Run autonomous coding agents inside a sandbox",
+    "body_en": "If you let coding agents work on their own, give them an isolated runtime rather than your real machine. Eclipse Enclave 1.0 is an open-source, vendor-neutral sandbox that lets tools like Claude Code and Codex run autonomously with controlled access to files and credentials.",
+    "title_fa": "ایجنت‌های کدنویس را در محیط ایزوله اجرا کنید",
+    "body_fa": "وقتی می‌خواهید ایجنت‌های کدنویس مستقل کار کنند، آن‌ها را روی سیستم اصلی خودتان رها نکنید؛ یک محیط اجرای جداگانه برایشان بسازید. پروژه Eclipse Enclave 1.0 یک سندباکس متن‌باز و مستقل از فروشنده است که ابزارهایی مثل Claude Code و Codex را به‌صورت خودکار و با دسترسی کنترل‌شده به فایل‌ها و اطلاعات ورود اجرا می‌کند.",
+    "difficulty": "intermediate",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/eclipse-foundation-launches-eclipse-enclave-110000704.html"
   }
 ]
