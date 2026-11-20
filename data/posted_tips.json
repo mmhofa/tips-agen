@@ -1294,5 +1294,17 @@
     "body_fa": "تحلیل فورچون تأکید می‌کند که قضاوت انسانی باید از قبل در جریان کار ایجنت‌ها تعبیه شود تا اقدام‌های خودکار از کنترل خارج نشوند. برای کارهای پرتأثیر یا برگشت‌ناپذیر، قبل از اجرا یک تأیید صریح انسانی بگذارید تا ایجنت بدون چراغ سبز جلو نرود.",
     "difficulty": "intermediate",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "ec132bfb-dbed-4b28-8579-c483196767ca",
+    "date": "2026-11-20",
+    "posted_at": "2026-11-20T14:00:04.202228+00:00",
+    "telegram_message_id": 133,
+    "title_en": "Measure Outcomes, Not Agent Counts",
+    "body_en": "It is easy to report activity, usage, or the number of agents deployed. Before scaling, define the business outcome each agent should move and track that metric instead.",
+    "title_fa": "نتیجه کسب‌وکار را بسنجید، نه تعداد ایجنت‌ها",
+    "body_fa": "گزارش دادن تعداد ایجنت‌ها، میزان استفاده یا فعالیت آن‌ها ساده است، اما معیار خوبی نیست. پیش از گسترش، مشخص کنید هر ایجنت قرار است کدام نتیجه کسب‌وکار را بهبود دهد و همان شاخص را دنبال کنید.",
+    "difficulty": "beginner",
+    "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/09/five-principles-for-turning-ai-agent-adoption-into-measurable-impact/"
   }
 ]
