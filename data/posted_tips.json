@@ -1306,5 +1306,17 @@
     "body_fa": "گزارش دادن تعداد ایجنت‌ها، میزان استفاده یا فعالیت آن‌ها ساده است، اما معیار خوبی نیست. پیش از گسترش، مشخص کنید هر ایجنت قرار است کدام نتیجه کسب‌وکار را بهبود دهد و همان شاخص را دنبال کنید.",
     "difficulty": "beginner",
     "source_url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/09/five-principles-for-turning-ai-agent-adoption-into-measurable-impact/"
+  },
+  {
+    "id": "73e440dd-95fa-4718-a8b1-5ef6470e1be3",
+    "date": "2026-11-20",
+    "posted_at": "2026-11-20T23:05:39.465532+00:00",
+    "telegram_message_id": 134,
+    "title_en": "Define human stop-and-escalate checkpoints",
+    "body_en": "Build explicit checkpoints into agent workflows so the machine stops and calls a human before high-impact actions. Human judgment should be part of the workflow, not an afterthought once an automated action has gone too far.",
+    "title_fa": "نقطه توقف و ارجاع به انسان را از قبل تعریف کنید",
+    "body_fa": "در جریان کار عامل‌ها، قبل از اقدام‌های پرریسک نقطه توقف و ارجاع به انسان بگذارید. قضاوت انسانی باید بخشی از گردش‌کار باشد، نه چیزی که بعد از خراب شدن کار به آن فکر کنید.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
