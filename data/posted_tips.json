@@ -1318,5 +1318,17 @@
     "body_fa": "در جریان کار عامل‌ها، قبل از اقدام‌های پرریسک نقطه توقف و ارجاع به انسان بگذارید. قضاوت انسانی باید بخشی از گردش‌کار باشد، نه چیزی که بعد از خراب شدن کار به آن فکر کنید.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "fa3f7b43-482f-4513-93a9-4600a326d80f",
+    "date": "2026-11-21",
+    "posted_at": "2026-11-21T03:58:28.064608+00:00",
+    "telegram_message_id": 135,
+    "title_en": "Set guardrails before giving agents real work",
+    "body_en": "Before handing actual business tasks to AI agents, define operational guardrails and a controlled scope. Most small businesses already use AI, but very few have moved to agentic AI—so start small and supervised rather than launching agents into core workflows.",
+    "title_fa": "پیش از سپردن کار واقعی به ایجنت‌ها، چارچوب اجرایی تعیین کنید",
+    "body_fa": "قبل از اینکه انجام کارهای واقعی کسب‌وکار را به ایجنت‌های هوش مصنوعی بسپارید، محدودهٔ کار و چارچوب‌های اجرایی را روشن کنید. بسیاری از کسب‌وکارهای کوچک از هوش مصنوعی استفاده می‌کنند، اما هنوز تعداد کمی به ایجنت‌های خودمختار روی آورده‌اند؛ پس بهتر است کار را کوچک و تحت نظارت شروع کنید، نه اینکه ایجنت را مستقیم وارد فرایندهای اصلی کنید.",
+    "difficulty": "beginner",
+    "source_url": "https://dynamicbusiness.com/news/six-operational-guardrails-every-business-needs-before-handing-tasks-to-ai-agents"
   }
 ]
