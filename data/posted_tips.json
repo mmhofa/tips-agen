@@ -1342,5 +1342,17 @@
     "body_fa": "ایجنت‌های کدنویس کد می‌سازند، وابستگی دانلود می‌کنند و در دستگاه‌ها و محیط‌های ابری فرمان اجرا می‌کنند. آن‌ها را در محیط ایزوله اجرا کنید، بسته‌های مجاز را فهرست کنید و پیش از رسیدن فرمان‌ها یا تغییر وابستگی‌ها به تولید، بازبینی انسانی بگذارید.",
     "difficulty": "advanced",
     "source_url": "https://finance.yahoo.com/technology/ai/articles/apiiro-named-leader-independent-evaluation-163000569.html"
+  },
+  {
+    "id": "f9fad249-1a6b-47d3-8c40-fd22a7471eb9",
+    "date": "2026-11-21",
+    "posted_at": "2026-11-21T22:11:10.822850+00:00",
+    "telegram_message_id": 137,
+    "title_en": "Define Where the Agent Must Stop and Ask a Human",
+    "body_en": "Autonomy needs a brake. Map the steps where a wrong action is costly or irreversible—payments, deletions, customer-facing messages—and insert an explicit human approval checkpoint before the agent proceeds.",
+    "title_fa": "نقطه توقف ایجنت را از قبل مشخص کنید",
+    "body_fa": "استقلال ایجنت بدون ترمز خطرناک است. مراحلی را که خطا در آن‌ها پرهزینه یا برگشت‌ناپذیر است مشخص کنید—مثل پرداخت، حذف داده یا پیام مستقیم به مشتری—و پیش از ادامه کار، یک ایست بازرسی برای تأیید انسانی بگذارید.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
