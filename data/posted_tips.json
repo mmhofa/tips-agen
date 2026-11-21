@@ -1330,5 +1330,17 @@
     "body_fa": "قبل از اینکه انجام کارهای واقعی کسب‌وکار را به ایجنت‌های هوش مصنوعی بسپارید، محدودهٔ کار و چارچوب‌های اجرایی را روشن کنید. بسیاری از کسب‌وکارهای کوچک از هوش مصنوعی استفاده می‌کنند، اما هنوز تعداد کمی به ایجنت‌های خودمختار روی آورده‌اند؛ پس بهتر است کار را کوچک و تحت نظارت شروع کنید، نه اینکه ایجنت را مستقیم وارد فرایندهای اصلی کنید.",
     "difficulty": "beginner",
     "source_url": "https://dynamicbusiness.com/news/six-operational-guardrails-every-business-needs-before-handing-tasks-to-ai-agents"
+  },
+  {
+    "id": "c9e5ce1b-7814-46f4-a3b2-6c5f54537b61",
+    "date": "2026-11-21",
+    "posted_at": "2026-11-21T13:31:14.118472+00:00",
+    "telegram_message_id": 136,
+    "title_en": "Sandbox coding agents and review their actions",
+    "body_en": "Coding agents generate code, download dependencies and execute commands across endpoints and cloud environments. Run them in isolated environments, allowlist packages, and require human review before commands or dependency changes reach production.",
+    "title_fa": "ایجنت‌های کدنویس را در محیط ایزوله اجرا و اقداماتشان را بازبینی کنید",
+    "body_fa": "ایجنت‌های کدنویس کد می‌سازند، وابستگی دانلود می‌کنند و در دستگاه‌ها و محیط‌های ابری فرمان اجرا می‌کنند. آن‌ها را در محیط ایزوله اجرا کنید، بسته‌های مجاز را فهرست کنید و پیش از رسیدن فرمان‌ها یا تغییر وابستگی‌ها به تولید، بازبینی انسانی بگذارید.",
+    "difficulty": "advanced",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/apiiro-named-leader-independent-evaluation-163000569.html"
   }
 ]
