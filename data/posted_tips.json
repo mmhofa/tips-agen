@@ -1366,5 +1366,17 @@
     "body_fa": "در جریان کاری عامل، ایستگاه‌های بازبینی روشنی بگذارید تا پیش از اقدام پرخطر، یک انسان تصمیم بگیرد یا تأیید کند.",
     "difficulty": "intermediate",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "0334cb6b-5f73-473a-b554-85c5be5f35b1",
+    "date": "2026-11-22",
+    "posted_at": "2026-11-22T22:28:24.161903+00:00",
+    "telegram_message_id": 139,
+    "title_en": "Instrument agents before you scale them",
+    "body_en": "Agentic AI can produce unpredictable outcomes and unpredictable bills, which is why observability is now treated as a first-class practice. Before rolling an agent out to more teams, log every action, tool call and token spend, and set budget alerts so a runaway loop is caught in minutes rather than at the end of the quarter.",
+    "title_fa": "پیش از گسترش ایجنت‌ها، آن‌ها را زیر ذره‌بین ببرید",
+    "body_fa": "ایجنت‌های خودمختار هم نتیجهٔ غیرقابل‌پیش‌بینی می‌سازند و هم هزینهٔ غیرقابل‌پیش‌بینی. به همین دلیل رصدپذیری (Observability) دیگر یک قلم لوکس نیست، بلکه بخشی از خودِ طراحی است. قبل از اینکه ایجنت را در اختیار تیم‌های بیشتر بگذارید، هر اقدام، هر فراخوانی ابزار و هر مصرف توکن را ثبت کنید و هشدار بودجه بگذارید تا یک حلقهٔ بی‌پایان در چند دقیقه شناسایی شود، نه آخر فصل وقتی فاکتور می‌آید.",
+    "difficulty": "intermediate",
+    "source_url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/splunk-state-of-observability-2026-avoiding-the-hidden-costs-of-ai-agents.html"
   }
 ]
