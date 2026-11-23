@@ -1378,5 +1378,17 @@
     "body_fa": "ایجنت‌های خودمختار هم نتیجهٔ غیرقابل‌پیش‌بینی می‌سازند و هم هزینهٔ غیرقابل‌پیش‌بینی. به همین دلیل رصدپذیری (Observability) دیگر یک قلم لوکس نیست، بلکه بخشی از خودِ طراحی است. قبل از اینکه ایجنت را در اختیار تیم‌های بیشتر بگذارید، هر اقدام، هر فراخوانی ابزار و هر مصرف توکن را ثبت کنید و هشدار بودجه بگذارید تا یک حلقهٔ بی‌پایان در چند دقیقه شناسایی شود، نه آخر فصل وقتی فاکتور می‌آید.",
     "difficulty": "intermediate",
     "source_url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/splunk-state-of-observability-2026-avoiding-the-hidden-costs-of-ai-agents.html"
+  },
+  {
+    "id": "57a66546-b611-470f-b0bc-e3455e1eb669",
+    "date": "2026-11-23",
+    "posted_at": "2026-11-23T15:57:32.931603+00:00",
+    "telegram_message_id": 140,
+    "title_en": "Add human approval gates",
+    "body_en": "For irreversible actions such as sending emails, changing records, or making payments, build explicit stop points where a human must approve before the agent continues.",
+    "title_fa": "دروازه تأیید انسانی بگذارید",
+    "body_fa": "برای کارهای برگشت‌ناپذیر مثل ارسال ایمیل، تغییر رکورد یا انجام پرداخت، نقطه توقف صریح تعریف کنید تا انسان قبل از ادامه کار تأیید کند. اجازه ندهید ایجنت بدون بررسی از این مرزهای حساس عبور کند.",
+    "difficulty": "beginner",
+    "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
   }
 ]
