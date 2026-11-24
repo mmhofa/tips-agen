@@ -1390,5 +1390,17 @@
     "body_fa": "برای کارهای برگشت‌ناپذیر مثل ارسال ایمیل، تغییر رکورد یا انجام پرداخت، نقطه توقف صریح تعریف کنید تا انسان قبل از ادامه کار تأیید کند. اجازه ندهید ایجنت بدون بررسی از این مرزهای حساس عبور کند.",
     "difficulty": "beginner",
     "source_url": "https://tech.yahoo.com/ai/articles/machine-stop-call-human-113000983.html"
+  },
+  {
+    "id": "774a2601-d876-4364-b2b3-0f282454b92d",
+    "date": "2026-11-24",
+    "posted_at": "2026-11-24T03:20:18.685886+00:00",
+    "telegram_message_id": 141,
+    "title_en": "Test agents against sensitive-data leaks",
+    "body_en": "In controlled tests, AI agents leaked confidential data in 87 of 100 runs. Before production, run leak tests with realistic sensitive data and monitor outbound data paths.",
+    "title_fa": "ایجنت را با آزمون نشت دادهٔ حساس بسنجید",
+    "body_fa": "در آزمون‌های کنترل‌شده، ایجنت‌ها در ۸۷ مورد از ۱۰۰ اجرا دادهٔ محرمانه را نشت داده‌اند. پیش از تولید، با دادهٔ حساس واقعی آزمون نشت انجام دهید و مسیرهای خروج داده را رصد کنید.",
+    "difficulty": "advanced",
+    "source_url": "https://siliconangle.com/2026/11/23/ai-agents-leaked-confidential-data-in-87-of-100-test-runs-cyberhaven-finds/"
   }
 ]
