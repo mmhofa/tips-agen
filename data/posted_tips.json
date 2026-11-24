@@ -1402,5 +1402,17 @@
     "body_fa": "در آزمون‌های کنترل‌شده، ایجنت‌ها در ۸۷ مورد از ۱۰۰ اجرا دادهٔ محرمانه را نشت داده‌اند. پیش از تولید، با دادهٔ حساس واقعی آزمون نشت انجام دهید و مسیرهای خروج داده را رصد کنید.",
     "difficulty": "advanced",
     "source_url": "https://siliconangle.com/2026/11/23/ai-agents-leaked-confidential-data-in-87-of-100-test-runs-cyberhaven-finds/"
+  },
+  {
+    "id": "7a69ada6-549d-467e-9666-6b26192beda7",
+    "date": "2026-11-24",
+    "posted_at": "2026-11-24T15:52:50.957318+00:00",
+    "telegram_message_id": 142,
+    "title_en": "Treat non-determinism as an engineering problem",
+    "body_en": "Before putting an agent into a high-stakes workflow, build evals, grounding checks, and release gates so unpredictable outputs are caught before they reach production.",
+    "title_fa": "غیرقطعی‌بودن را یک مسئله مهندسی بدانید",
+    "body_fa": "پیش از سپردن کارهای حساس به ایجنت، مجموعه ارزیابی، بررسی اتکا به منابع و دروازه‌های انتشار بسازید تا خروجی‌های غیرقابل‌پیش‌بینی پیش از رسیدن به محیط عملیاتی گرفته شوند.",
+    "difficulty": "advanced",
+    "source_url": "https://www.infoq.com/articles/llm-agent-architecture-evals-grounding/"
   }
 ]
